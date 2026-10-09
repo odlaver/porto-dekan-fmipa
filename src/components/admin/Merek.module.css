@@ -1,0 +1,23 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nama {
+  margin: 0;
+  font-size: 1.9rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--theme-elevation-1000);
+}
+
+.sub {
+  margin: 0.35rem 0 0;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #c9f36a;
+}

@@ -1,0 +1,102 @@
+.kartu {
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-3xs);
+  border-radius: var(--radius-card);
+  border: 1px solid var(--line);
+  background: var(--surface);
+}
+
+/* Radius konsentris: kartu 12, gambar 8 */
+.foto,
+.tanpaFoto {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  border-radius: var(--radius-img);
+}
+
+.foto {
+  height: auto;
+  object-fit: cover;
+}
+
+.tanpaFoto {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--space-m);
+  background: var(--ink);
+  color: var(--surface-2);
+  font-size: var(--step-n1);
+}
+
+.tanpaFoto span {
+  font-family: var(--font-serif);
+  font-size: var(--step-7);
+  line-height: 0.9;
+  color: var(--paper);
+}
+
+.isi {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: var(--space-2xs);
+  padding: var(--space-s) var(--space-s) var(--space-2xs);
+}
+
+.tanggal {
+  font-size: var(--step-n1);
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.judul {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: var(--step-1);
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.ringkasan {
+  display: -webkit-box;
+  margin: 0;
+  overflow: hidden;
+  font-size: var(--step-n1);
+  color: var(--muted);
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.tautan {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  margin-top: auto;
+  font-size: var(--step-n1);
+  font-weight: 500;
+}
+
+.kosong {
+  color: var(--muted);
+}
+
+/* Penyesuaian konsep Selulosa */
+.tanggal {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.judul {
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+.tanpaFoto span {
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  color: var(--limau);
+}

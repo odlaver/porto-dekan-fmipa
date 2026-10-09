@@ -1,0 +1,53 @@
+.halaman {
+  min-height: 100dvh;
+  display: grid;
+  align-items: center;
+  background: var(--gelap);
+  color: var(--di-gelap);
+}
+
+.isi {
+  padding-block: var(--space-2xl);
+}
+
+.label {
+  margin: 0;
+  color: var(--limau);
+}
+
+.kode {
+  margin: var(--space-s) 0 0;
+  font-size: clamp(7rem, 26vw, 22rem);
+  font-weight: 500;
+  line-height: 0.8;
+  letter-spacing: -0.07em;
+  color: var(--limau);
+}
+
+.judul {
+  margin: var(--space-l) 0 0;
+  font-size: var(--step-5);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.04em;
+}
+
+.teks {
+  max-width: 34rem;
+  margin: var(--space-s) 0 0;
+  color: var(--di-gelap-redup);
+}
+
+.tombol {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  min-height: 2.9rem;
+  margin-top: var(--space-l);
+  padding: 0 1.3rem;
+  border-radius: 999px;
+  background: var(--limau);
+  color: var(--ink);
+  font-weight: 500;
+  text-decoration: none;
+}

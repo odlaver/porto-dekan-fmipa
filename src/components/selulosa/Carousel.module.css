@@ -1,0 +1,97 @@
+.carousel {
+  position: relative;
+}
+
+.kontrol {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  margin-bottom: var(--space-s);
+}
+
+.hitung {
+  min-width: 4.5rem;
+  color: var(--muted);
+}
+
+.progres {
+  flex: 1;
+  height: 2px;
+  margin-right: var(--space-s);
+  background: var(--line);
+  overflow: hidden;
+}
+
+.progres span {
+  display: block;
+  height: 100%;
+  background: var(--ink);
+  transform-origin: left;
+  transition: transform 0.2s linear;
+}
+
+.kontrol button {
+  display: grid;
+  place-items: center;
+  width: 2.9rem;
+  height: 2.9rem;
+  border: 1px solid var(--ink);
+  border-radius: 50%;
+  background: var(--surface);
+  cursor: pointer;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.kontrol button:hover:not(:disabled) {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.kontrol button:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+/* Lebarkan track sampai tepi layar di kanan */
+.track {
+  margin-right: calc(-1 * var(--gutter));
+  padding-bottom: var(--space-s);
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+  scroll-padding-left: 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--line-strong) transparent;
+}
+
+.track:focus-visible {
+  outline-offset: 6px;
+}
+
+.isi {
+  position: relative;
+  display: flex;
+  column-gap: var(--space-xs);
+  width: max-content;
+  padding-right: var(--gutter);
+}
+
+.slide {
+  flex: 0 0 var(--lebar);
+  max-width: calc(100vw - 2 * var(--gutter));
+  scroll-snap-align: start;
+  display: flex;
+}
+
+.slide > * {
+  flex: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .progres span {
+    transition: none;
+  }
+}

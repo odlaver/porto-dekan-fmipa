@@ -1,0 +1,438 @@
+.header {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: var(--z-header);
+  color: var(--ink);
+  background: rgb(243 243 238 / 0.84);
+  backdrop-filter: saturate(1.5) blur(16px);
+  -webkit-backdrop-filter: saturate(1.5) blur(16px);
+  border-bottom: 1px solid var(--line);
+  transition:
+    background-color 0.4s ease,
+    color 0.4s ease,
+    border-color 0.4s ease;
+}
+
+.header[data-gelap='true'] {
+  color: var(--di-gelap);
+  background: rgb(12 26 20 / 0.62);
+  border-bottom-color: var(--garis-gelap);
+}
+
+/* Di puncak hero header menyatu dengan latar */
+.header[data-atas='true'] {
+  background: transparent;
+  border-bottom-color: transparent;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.bar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-m);
+  min-height: 4.5rem;
+}
+
+/* Merek: heksagon glukosa dan nama */
+.merek {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
+  min-height: 2.75rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+.monogram {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.monogram > * {
+  grid-area: 1 / 1;
+}
+
+.monogram svg {
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s var(--ease-out);
+}
+
+.monogram polygon {
+  fill: var(--ink);
+  transition: fill 0.4s ease;
+}
+
+.monogram span {
+  color: var(--paper);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  transition: color 0.4s ease;
+}
+
+.header[data-gelap='true'] .monogram polygon {
+  fill: var(--limau);
+}
+
+.header[data-gelap='true'] .monogram span {
+  color: var(--ink);
+}
+
+.merek:hover .monogram svg {
+  transform: rotate(120deg);
+}
+
+.teksMerek {
+  display: grid;
+  gap: 0.15rem;
+  line-height: 1.1;
+}
+
+.nama {
+  font-size: 0.98rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+.jabatan {
+  font-size: 0.64rem;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.header[data-gelap='true'] .jabatan {
+  color: var(--di-gelap-redup);
+}
+
+/* Navigasi menempati kolom tengah dan kanan */
+.nav {
+  grid-column: 2 / -1;
+  display: grid;
+  grid-template-columns: subgrid;
+  align-items: center;
+}
+
+.nav ul {
+  position: relative;
+  display: flex;
+  margin: 0;
+  padding: 0.25rem;
+  list-style: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgb(12 26 20 / 0.03);
+  transition:
+    border-color 0.4s ease,
+    background-color 0.4s ease;
+}
+
+.header[data-gelap='true'] .nav ul {
+  border-color: var(--garis-gelap);
+  background: rgb(238 241 234 / 0.04);
+}
+
+/* Penanda bab aktif yang bergeser */
+.nav ul::before {
+  content: '';
+  position: absolute;
+  top: 0.25rem;
+  bottom: 0.25rem;
+  left: 0;
+  width: var(--w, 0);
+  border-radius: 999px;
+  background: var(--ink);
+  opacity: 0;
+  transform: translateX(var(--x, 0));
+  transition:
+    transform 0.55s var(--ease-out),
+    width 0.55s var(--ease-out),
+    opacity 0.3s ease,
+    background-color 0.4s ease;
+}
+
+.nav ul[data-penanda='ada']::before {
+  opacity: 1;
+}
+
+.header[data-gelap='true'] .nav ul::before {
+  background: var(--di-gelap);
+}
+
+.nav ul a {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.4rem;
+  padding: 0 0.95rem;
+  border-radius: 999px;
+  color: inherit;
+  font-size: 0.88rem;
+  text-decoration: none;
+  opacity: 0.74;
+  transition:
+    opacity 0.2s ease,
+    color 0.35s ease;
+}
+
+.nav ul a:hover {
+  opacity: 1;
+}
+
+.nav ul a[aria-current] {
+  opacity: 1;
+  color: var(--paper);
+}
+
+.header[data-gelap='true'] .nav ul a[aria-current] {
+  color: var(--ink);
+}
+
+/* Teks bergulir saat hover */
+.gulung {
+  display: inline-grid;
+  overflow: hidden;
+  height: 1.3em;
+  line-height: 1.3;
+}
+
+.gulung > span {
+  grid-area: 1 / 1;
+  transition: transform 0.5s var(--ease-out);
+}
+
+.gulung > span + span {
+  transform: translateY(100%);
+}
+
+a:hover > .gulung > span:first-child {
+  transform: translateY(-100%);
+}
+
+a:hover > .gulung > span + span {
+  transform: none;
+}
+
+.kontak {
+  justify-self: end;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 2.6rem;
+  padding: 0 1.05rem 0 1.25rem;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--paper);
+  font-size: 0.88rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition:
+    background-color 0.4s ease,
+    color 0.4s ease;
+}
+
+.kontak svg {
+  transition: transform 0.4s var(--ease-out);
+}
+
+.kontak:hover svg {
+  transform: translate(2px, 2px);
+}
+
+.header[data-gelap='true'] .kontak {
+  background: var(--limau);
+  color: var(--ink);
+}
+
+.progres {
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 100%;
+  height: 2px;
+  background: var(--limau-tua);
+  transform-origin: left;
+  transform: scaleX(0);
+}
+
+.header[data-gelap='true'] .progres {
+  background: var(--limau);
+}
+
+@supports (animation-timeline: scroll()) {
+  .progres {
+    animation: progres linear both;
+    animation-timeline: scroll(root);
+  }
+}
+
+@keyframes progres {
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.menu {
+  display: none;
+}
+
+/* Menu layar penuh di layar sempit */
+@media (max-width: 1100px) {
+  .bar {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .menu {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    min-height: 2.75rem;
+    padding: 0 1.1rem;
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+
+  .header[data-gelap='true'] .menu {
+    border-color: rgb(238 241 234 / 0.3);
+  }
+
+  .garisMenu {
+    position: relative;
+    width: 14px;
+    height: 8px;
+  }
+
+  .garisMenu::before,
+  .garisMenu::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 1.5px;
+    background: currentColor;
+    transition:
+      top 0.35s var(--ease-out),
+      transform 0.35s var(--ease-out);
+  }
+
+  .garisMenu::before {
+    top: 0;
+  }
+
+  .garisMenu::after {
+    top: 6.5px;
+  }
+
+  .header[data-buka='true'] .garisMenu::before {
+    top: 3.25px;
+    transform: rotate(45deg);
+  }
+
+  .header[data-buka='true'] .garisMenu::after {
+    top: 3.25px;
+    transform: rotate(-45deg);
+  }
+
+  .nav {
+    display: none;
+    position: absolute;
+    inset: 100% 0 auto;
+    height: calc(100dvh - 4.5rem);
+    overflow-y: auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+    gap: var(--space-xl);
+    padding: var(--space-s) var(--gutter) var(--space-xl);
+    background: var(--gelap);
+    color: var(--di-gelap);
+  }
+
+  .header[data-buka='true'] .nav {
+    display: flex;
+  }
+
+  .nav ul,
+  .header[data-gelap='true'] .nav ul {
+    flex-direction: column;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+  }
+
+  .nav ul::before {
+    display: none;
+  }
+
+  .nav li {
+    border-bottom: 1px solid var(--garis-gelap);
+    animation: masuk 0.6s var(--ease-out) both;
+    animation-delay: calc(var(--i, 0) * 45ms);
+  }
+
+  .nav ul a {
+    width: 100%;
+    min-height: auto;
+    padding: 0.85rem 0;
+    border-radius: 0;
+    font-size: var(--step-4);
+    font-weight: 500;
+    letter-spacing: -0.035em;
+    opacity: 1;
+  }
+
+  .nav ul a[aria-current],
+  .header[data-gelap='true'] .nav ul a[aria-current] {
+    color: var(--limau);
+  }
+
+  .kontak {
+    align-self: flex-start;
+    min-height: 3rem;
+    padding-inline: 1.4rem 1.2rem;
+    font-size: 1rem;
+  }
+}
+
+@keyframes masuk {
+  from {
+    opacity: 0;
+    transform: translateY(0.75rem);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .monogram svg,
+  .gulung > span,
+  .nav ul::before,
+  .kontak svg {
+    transition: none;
+  }
+
+  .merek:hover .monogram svg,
+  a:hover > .gulung > span:first-child,
+  .kontak:hover svg {
+    transform: none;
+  }
+
+  a:hover > .gulung > span + span {
+    transform: translateY(100%);
+  }
+
+  .nav li {
+    animation: none;
+  }
+}

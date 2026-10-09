@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap');
+
+/* Admin mengikuti konsep Selulosa: hijau-hitam, satu aksen limau */
+:root {
+  --font-body: 'Geist', system-ui, sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, monospace;
+
+  --color-base-0: #f3f5ef;
+  --color-base-50: #e8ece6;
+  --color-base-100: #dce1dc;
+  --color-base-150: #cdd3ce;
+  --color-base-200: #bdc5bf;
+  --color-base-250: #abb5ae;
+  --color-base-300: #9aa59d;
+  --color-base-350: #88968c;
+  --color-base-400: #77867c;
+  --color-base-450: #67776d;
+  --color-base-500: #58695f;
+  --color-base-550: #4a5e52;
+  --color-base-600: #3d5246;
+  --color-base-650: #31473b;
+  --color-base-700: #263c31;
+  --color-base-750: #1e3329;
+  --color-base-800: #172b22;
+  --color-base-850: #12231b;
+  --color-base-900: #0c1a14;
+  --color-base-950: #08130e;
+  --color-base-1000: #040a07;
+
+  --style-radius-s: 4px;
+  --style-radius-m: 6px;
+  --style-radius-l: 10px;
+}
+
+.btn--style-primary {
+  --color: #0c1a14;
+  --bg-color: #c9f36a;
+  --hover-bg: #b4e04f;
+  --hover-color: #0c1a14;
+}
+
+::selection {
+  background: #c9f36a;
+  color: #0c1a14;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.03em;
+}

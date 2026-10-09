@@ -1,0 +1,49 @@
+.rantai {
+  display: block;
+  width: 100%;
+  height: clamp(5rem, 8.8vw, 9rem);
+  overflow: visible;
+  color: var(--di-gelap);
+}
+
+.ikatan {
+  fill: none;
+  stroke: var(--di-gelap-redup);
+  stroke-width: 1.4;
+}
+
+.titik {
+  fill: var(--di-gelap-redup);
+}
+
+/* Tanda gunting enzim di ikatan yang akan diputus */
+.gunting {
+  fill: none;
+  stroke: var(--limau);
+  stroke-width: 1.6;
+  stroke-linecap: round;
+}
+
+.cincin {
+  fill: var(--limau);
+  fill-opacity: 0;
+  stroke: var(--di-gelap);
+  stroke-width: 1.4;
+  stroke-linejoin: round;
+}
+
+.oksigen {
+  fill: var(--limau);
+}
+
+.gugus {
+  stroke: var(--di-gelap-redup);
+  stroke-width: 1.2;
+}
+
+@media (max-width: 700px) {
+  .rantai {
+    width: 180%;
+    margin-left: -40%;
+  }
+}

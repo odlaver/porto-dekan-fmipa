@@ -1,0 +1,194 @@
+.profil {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: var(--space-l);
+  row-gap: var(--space-2xl);
+}
+
+.profil > * {
+  grid-column: 1 / -1;
+}
+
+@media (min-width: 1024px) {
+  .narasi {
+    grid-column: 1 / span 7;
+  }
+
+  .studi {
+    grid-column: 9 / -1;
+  }
+}
+
+/* Tiga jenjang sebagai unit rantai yang tersambung */
+.studi {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-m);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.studi::before {
+  content: '';
+  position: absolute;
+  top: 0.95rem;
+  left: 1.9rem;
+  right: 0;
+  height: 1px;
+  background: var(--ink);
+}
+
+.studi li {
+  position: relative;
+  display: grid;
+  align-content: start;
+  gap: 0.2rem;
+}
+
+.simpul {
+  width: 2.2rem;
+  height: 1.9rem;
+  margin-bottom: var(--space-m);
+  background: var(--paper);
+  clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%);
+  position: relative;
+}
+
+.simpul::after {
+  content: '';
+  position: absolute;
+  inset: 2px;
+  background: var(--ink);
+  clip-path: inherit;
+}
+
+.studi li:last-child .simpul::after {
+  background: var(--limau-tua);
+}
+
+.jenjang {
+  color: var(--muted);
+}
+
+.tahun {
+  font-size: var(--step-6);
+  font-weight: 500;
+  line-height: 0.95;
+  letter-spacing: -0.05em;
+  font-variant-numeric: tabular-nums;
+}
+
+.prodi {
+  margin-top: var(--space-xs);
+  font-size: var(--step-1);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+.kampus {
+  color: var(--muted);
+}
+
+.kolom {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-l);
+  padding-top: var(--space-l);
+  border-top: 1px solid var(--ink);
+}
+
+.sub {
+  margin: 0 0 var(--space-s);
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.daftar,
+.pelatihan ul {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.daftar li,
+.pelatihan li {
+  display: grid;
+  gap: 0.15rem;
+  padding-block: var(--space-xs);
+  border-top: 1px solid var(--line);
+  line-height: 1.4;
+}
+
+.periode {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.pelatihan ul {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: var(--space-l);
+}
+
+@media (max-width: 900px) {
+  .studi,
+  .kolom,
+  .pelatihan ul {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .studi::before {
+    top: 0;
+    bottom: 0;
+    left: 1.05rem;
+    right: auto;
+    width: 1px;
+    height: auto;
+  }
+
+  .studi li {
+    padding-left: 3.5rem;
+  }
+
+  .simpul {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+
+/* Desktop: pendidikan menjadi rantai vertikal di samping narasi */
+@media (min-width: 1024px) {
+  .studi {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--space-l);
+    align-self: start;
+  }
+
+  .studi::before {
+    top: 0.95rem;
+    bottom: 0.95rem;
+    left: 1.05rem;
+    right: auto;
+    width: 1px;
+    height: auto;
+  }
+
+  .studi li {
+    padding-left: 3.5rem;
+  }
+
+  .simpul {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0;
+  }
+
+  .tahun {
+    font-size: var(--step-5);
+  }
+}

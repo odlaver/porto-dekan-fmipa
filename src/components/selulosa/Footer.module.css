@@ -1,0 +1,134 @@
+.footer {
+  overflow: hidden;
+  padding-top: max(6rem, var(--space-xl-4xl));
+  background: var(--gelap);
+  color: var(--di-gelap);
+}
+
+.label {
+  display: flex;
+  align-items: center;
+  gap: var(--space-s);
+  margin: 0 0 var(--space-l);
+  color: var(--di-gelap-redup);
+}
+
+.label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: rgb(238 241 234 / 0.3);
+}
+
+.label span:first-child {
+  color: var(--limau);
+}
+
+.judul {
+  max-width: 20ch;
+  margin: 0;
+  font-size: var(--step-6);
+  font-weight: 500;
+  line-height: 0.98;
+  letter-spacing: -0.045em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-l);
+  margin-top: var(--space-2xl);
+  padding-top: var(--space-l);
+  border-top: 1px solid var(--garis-gelap);
+}
+
+.grid h3 {
+  margin: 0 0 var(--space-s);
+  font-weight: 400;
+  color: var(--di-gelap-redup);
+}
+
+.grid address {
+  display: grid;
+  gap: 0.15rem;
+  font-style: normal;
+  font-size: var(--step-1);
+  line-height: 1.4;
+}
+
+.grid ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.grid p {
+  margin: 0;
+  max-width: 28rem;
+  color: var(--di-gelap-redup);
+}
+
+.besar {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2.9rem;
+  font-size: var(--step-2);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.besar svg {
+  transition: transform 0.3s var(--ease-out);
+}
+
+.besar:hover {
+  color: var(--limau);
+}
+
+.besar:hover svg {
+  transform: translate(3px, -3px);
+}
+
+.merek {
+  margin: var(--space-3xl) 0 0;
+  padding-inline: var(--gutter);
+  font-size: clamp(5rem, 19.5vw, 24rem);
+  font-weight: 500;
+  line-height: 0.76;
+  letter-spacing: -0.075em;
+  white-space: nowrap;
+  color: var(--limau);
+  /* Kaki huruf sedikit tenggelam di balik garis penutup */
+  transform: translateY(0.12em);
+}
+
+.bawah {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: var(--space-s);
+  padding-block: var(--space-m);
+  border-top: 1px solid var(--garis-gelap);
+  background: var(--gelap);
+  color: var(--di-gelap-redup);
+}
+
+.atas {
+  min-height: 1.75rem;
+  color: var(--di-gelap);
+  text-decoration: none;
+}
+
+.atas:hover {
+  color: var(--limau);
+}
+
+@media (max-width: 860px) {
+  .grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

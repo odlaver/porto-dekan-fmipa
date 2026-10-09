@@ -1,0 +1,3991 @@
+{
+  "profile": {
+    "nama": "Dr. Eng. Heri Satria, S.Si., M.Si.",
+    "namaPDDikti": "HERI SATRIA",
+    "gelar": {
+      "depan": "Dr. Eng.",
+      "belakang": "S.Si., M.Si."
+    },
+    "jabatan": "Dekan Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Lampung",
+    "periodeJabatanDekan": "2024–2028",
+    "tanggalTerpilih": "2024-01-10",
+    "tanggalPelantikan": "2024-03-13",
+    "detailPemilihan": "Rapat senat tertutup FMIPA, Rabu 10 Januari 2024: Heri Satria 18 suara, Dr. Muslim Ansori 10, Dr. rer. nat. Akmal Junaidi 1, dari 29 suara aktif.",
+    "detailPelantikan": "Dilantik oleh Rektor Unila Prof. Lusmeilia Afriani pada Rabu, 13 Maret 2024, di ruang sidang lantai empat Gedung Rektorat Unila.",
+    "jabatanFungsional": "Lektor Kepala",
+    "jabatanFungsionalSejak": "2021-06-01",
+    "pendidikanTertinggi": "S3",
+    "statusIkatanKerja": "Dosen Tetap",
+    "statusAktivitas": "Aktif",
+    "jurusan": "Kimia",
+    "programStudiPDDikti": "Kimia",
+    "perguruanTinggi": "Universitas Lampung",
+    "nip": "197110012005011002",
+    "nidn": "0001107104",
+    "nuptk": "6333749650130143",
+    "email": null,
+    "emailCatatan": "Alamat email tidak dipublikasikan; Google Scholar hanya menampilkan \"Verified email at fmipa.unila.ac.id\".",
+    "sintaId": "38605",
+    "sintaUrl": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605",
+    "scholarUrl": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ",
+    "scholarUserId": "qjrGe6oAAAAJ",
+    "scopusId": null,
+    "bidangKeahlian": [
+      "Biochemistry"
+    ],
+    "fokusRiset": [
+      "biokonversi limbah lignoselulosa",
+      "ekstraksi selulosa dari limbah pertanian (singkong dan nanas) untuk drug delivery system (hydrogel biomedical)",
+      "stabilisasi dan imobilisasi enzim (α-amilase)",
+      "inhibitor ramah lingkungan",
+      "sintesis bahan kimia alami/organik"
+    ],
+    "source": {
+      "nama": "https://fmipa.unila.ac.id/pimpinan",
+      "jabatan": "https://fmipa.unila.ac.id/pimpinan",
+      "periode": "https://www.unila.ac.id/dr-eng-heri-satria-terpilih-menjadi-dekan-fmipa-periode-2024-2028/",
+      "tanggalTerpilih": "https://www.unila.ac.id/dr-eng-heri-satria-terpilih-menjadi-dekan-fmipa-periode-2024-2028/",
+      "tanggalPelantikan": "https://www.unila.ac.id/rektor-unila-lantik-dekan-fmipa-dan-para-wakil-dekan-fp-unila/",
+      "jabatanFungsional": "https://api-pddikti.kemdiktisaintek.go.id/dosen/profile/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "jabatanFungsionalSejak": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/",
+      "nidn": "https://api-pddikti.kemdiktisaintek.go.id/pencarian/dosen/heri%20satria",
+      "nuptk": "https://api-pddikti.kemdiktisaintek.go.id/pencarian/dosen/heri%20satria",
+      "nip": "https://fmipa.unila.ac.id/pimpinan",
+      "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605",
+      "scholar": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "bidangKeahlian": [
+        "https://sinta.kemdiktisaintek.go.id/authors/profile/38605",
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "fokusRiset": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/",
+      "email": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+    }
+  },
+  "career": [
+    {
+      "jabatan": "Kepala Laboratorium Biokimia, Jurusan Kimia FMIPA Unila",
+      "periode": "2018–2020",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "jabatan": "Wakil Dekan I (Bidang Akademik dan Kerja Sama) FMIPA Unila",
+      "periode": "2020–2024",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "jabatan": "Dekan FMIPA Universitas Lampung",
+      "periode": "2024–sekarang (periode 2024–2028)",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    }
+  ],
+  "organizations": [
+    {
+      "nama": "Ketua Himpunan Kimia Indonesia (HKI) Cabang Lampung",
+      "periode": "2018–sekarang",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "nama": "Anggota Perhimpunan Biokimia dan Biologi Molekuler Indonesia (PBBMI)",
+      "periode": "2020–sekarang",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "nama": "Ketua BKS-PTN Barat Bidang MIPA",
+      "periode": "2024–sekarang",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    }
+  ],
+  "awards": [
+    {
+      "nama": "Dean Award - The Best Graduate dari Kanazawa University, Jepang",
+      "tahun": 2017,
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "nama": "Tanda Kehormatan Satyalancana Karya Satya 20 Tahun dari Presiden Republik Indonesia",
+      "tahun": 2026,
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    }
+  ],
+  "trainingsAndTalks": [
+    {
+      "kegiatan": "Pelatihan Kepemimpinan menuju Universitas Berkelas Dunia dari Ditjen Diktiristek",
+      "tahun": 2024,
+      "jenis": "pelatihan",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "kegiatan": "Coaching Pewawancara Beasiswa LPDP",
+      "tahun": 2025,
+      "jenis": "pelatihan",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "kegiatan": "Akademi Kepemimpinan Perguruan Tinggi (AKPT) dari Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "tahun": 2026,
+      "jenis": "pelatihan",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "kegiatan": "Pembicara, International Conference on Green Technology di UIN Malang",
+      "tahun": 2024,
+      "jenis": "pembicara",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "kegiatan": "Pembicara, International Conference on Powder Technology Indonesia di Unpad",
+      "tahun": 2023,
+      "jenis": "pembicara",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    },
+    {
+      "kegiatan": "Ketua Panitia 5th International Conference on Applied Sciences, Mathematics, and Informatics di Unila",
+      "tahun": 2025,
+      "jenis": "panitia",
+      "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+    }
+  ],
+  "metrics": {
+    "sinta": {
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605",
+      "diaksesTanggal": "2026-10-08",
+      "sintaScoreOverall": 1246,
+      "sintaScore3Yr": 318,
+      "affilScore": 1246,
+      "affilScore3Yr": 318,
+      "scopus": {
+        "articles": 27,
+        "citations": 379,
+        "citedDocuments": 24,
+        "hIndex": 11,
+        "i10Index": 12,
+        "gIndex": 1
+      },
+      "googleScholar": {
+        "articles": 126,
+        "citations": 648,
+        "citedDocuments": 49,
+        "hIndex": 14,
+        "i10Index": 21,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDocuments": 0,
+        "hIndex": 4,
+        "i10Index": 4,
+        "gIndex": 0
+      },
+      "catatan": "Angka \"1.246\" di SINTA memakai titik ribuan (format Indonesia)."
+    },
+    "fmipaStaffPage": {
+      "source": "https://fmipa.unila.ac.id/profil-staff/197110012005011002",
+      "catatan": "Menampilkan SINTA Summary dengan angka sama seperti profil SINTA.",
+      "scopus": {
+        "articles": 27,
+        "citations": 379,
+        "citedDocuments": 24,
+        "hIndex": 11,
+        "i10Index": 12,
+        "gIndex": 1
+      },
+      "googleScholar": {
+        "articles": 126,
+        "citations": 648,
+        "citedDocuments": 49,
+        "hIndex": 14,
+        "i10Index": 21,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDocuments": 0,
+        "hIndex": 4,
+        "i10Index": 4,
+        "gIndex": 0
+      }
+    },
+    "googleScholar": {
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "diaksesTanggal": "2026-10-08",
+      "citationsAll": 668,
+      "citationsSince2021": 539,
+      "hIndexAll": 14,
+      "hIndexSince2021": 13,
+      "i10IndexAll": 22,
+      "i10IndexSince2021": 17,
+      "jumlahEntriProfil": 134
+    }
+  },
+  "education": [
+    {
+      "jenjang": "S3",
+      "perguruanTinggi": "Kanazawa UNiversity",
+      "gelar": "Doctor of Engineering",
+      "singkatanGelar": "Dr.Eng",
+      "tahunMasuk": 2014,
+      "tahunLulus": 2017,
+      "programStudi": "Natural Sciences",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/study-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "sourceProgramStudi": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/",
+      "catatan": "Nama PT disalin persis dari PDDikti (\"Kanazawa UNiversity\"); program studi dari profil pimpinan Unila 2026."
+    },
+    {
+      "jenjang": "S2",
+      "perguruanTinggi": "Institut Pertanian Bogor",
+      "gelar": "Magister Sains",
+      "singkatanGelar": "M.Si",
+      "tahunMasuk": null,
+      "tahunLulus": 2008,
+      "programStudi": "Bioteknologi",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/study-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "sourceProgramStudi": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/",
+      "catatan": "Program studi dari profil pimpinan Unila 2026 (PDDikti mengosongkan nama prodi)."
+    },
+    {
+      "jenjang": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "gelar": "Sarjana Sains",
+      "singkatanGelar": "S.Si",
+      "tahunMasuk": null,
+      "tahunLulus": 1995,
+      "programStudi": "Ilmu Kimia",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/study-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "sourceProgramStudi": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/",
+      "catatan": "Program studi dari profil pimpinan Unila 2026 (PDDikti mengosongkan nama prodi)."
+    }
+  ],
+  "teaching": [
+    {
+      "semester": "2025/2026 Genap",
+      "kodeMatkul": "KIM625412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2025/2026 Genap",
+      "kodeMatkul": "KIM625323",
+      "mataKuliah": "Kapita Selekta Biokimia",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2025/2026 Genap",
+      "kodeMatkul": "KIM625215",
+      "mataKuliah": "Biokimia II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2025/2026 Ganjil",
+      "kodeMatkul": "KIM625306",
+      "mataKuliah": "Praktikum Biokimia",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2025/2026 Ganjil",
+      "kodeMatkul": "KIM625412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2025/2026 Ganjil",
+      "kodeMatkul": "KIM625412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "Kimia",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2025/2026 Ganjil",
+      "kodeMatkul": "KIM625207",
+      "mataKuliah": "Biokimia I",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2024/2025 Genap",
+      "kodeMatkul": "KIM820233",
+      "mataKuliah": "Rekayasa Biokimia",
+      "kelas": "S2",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2024/2025 Genap",
+      "kodeMatkul": "KIM622412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2024/2025 Genap",
+      "kodeMatkul": "KIM622215",
+      "mataKuliah": "Biokimia II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2024/2025 Ganjil",
+      "kodeMatkul": "KIM820231",
+      "mataKuliah": "Riset Biokimia",
+      "kelas": "S2",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2024/2025 Ganjil",
+      "kodeMatkul": "KIM622412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2024/2025 Ganjil",
+      "kodeMatkul": "KIM622207",
+      "mataKuliah": "Biokimia I",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2023/2024 Genap",
+      "kodeMatkul": "KIM820233",
+      "mataKuliah": "Rekayasa Biokimia",
+      "kelas": "S2",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2023/2024 Genap",
+      "kodeMatkul": "KIM622412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2023/2024 Genap",
+      "kodeMatkul": "KIM622215",
+      "mataKuliah": "Biokimia II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2023/2024 Genap",
+      "kodeMatkul": "KIM622215",
+      "mataKuliah": "Biokimia II",
+      "kelas": "D",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2023/2024 Genap",
+      "kodeMatkul": "KIM622118",
+      "mataKuliah": "Biokimia dalam Industri",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2023/2024 Ganjil",
+      "kodeMatkul": "KIM622412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2023/2024 Ganjil",
+      "kodeMatkul": "KIM622207",
+      "mataKuliah": "Biokimia I",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2023/2024 Ganjil",
+      "kodeMatkul": "KIM622207",
+      "mataKuliah": "Biokimia I",
+      "kelas": "D",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2022/2023 Genap",
+      "kodeMatkul": "KIM622412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2022/2023 Genap",
+      "kodeMatkul": "KIM622215",
+      "mataKuliah": "Biokimia II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2022/2023 Genap",
+      "kodeMatkul": "KIM622118",
+      "mataKuliah": "Biokimia dalam Industri",
+      "kelas": "S1-A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2022/2023 Genap",
+      "kodeMatkul": "KIM622118",
+      "mataKuliah": "Biokimia dalam Industri",
+      "kelas": "S1-B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2022/2023 Ganjil",
+      "kodeMatkul": "KIM622412",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2022/2023 Ganjil",
+      "kodeMatkul": "KIM622215",
+      "mataKuliah": "Biokimia II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2022/2023 Ganjil",
+      "kodeMatkul": "KIM622207",
+      "mataKuliah": "Biokimia I",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2022/2023 Ganjil",
+      "kodeMatkul": "KIM622118",
+      "mataKuliah": "Biokimia dalam Industri",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2021/2022 Genap",
+      "kodeMatkul": "KIM622207",
+      "mataKuliah": "Biokimia I",
+      "kelas": "TBB",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2021/2022 Genap",
+      "kodeMatkul": "KIM622207",
+      "mataKuliah": "Biokimia I",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2021/2022 Genap",
+      "kodeMatkul": "KIM622118",
+      "mataKuliah": "Biokimia dalam Industri",
+      "kelas": "S1-B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2021/2022 Ganjil",
+      "kodeMatkul": "UNI620108",
+      "mataKuliah": "Pendidikan Pancasila",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2021/2022 Ganjil",
+      "kodeMatkul": "UNI620108",
+      "mataKuliah": "Pendidikan Pancasila",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2021/2022 Ganjil",
+      "kodeMatkul": "UNI620108",
+      "mataKuliah": "Pendidikan Pancasila",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2021/2022 Ganjil",
+      "kodeMatkul": "KIM620426",
+      "mataKuliah": "Kimia Bahan Makanan",
+      "kelas": "S1",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2021/2022 Ganjil",
+      "kodeMatkul": "KIM620306",
+      "mataKuliah": "Biokimia II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2020/2021 Genap",
+      "kodeMatkul": "UNI620107",
+      "mataKuliah": "Pendidikan Kewarganegaraan",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2020/2021 Genap",
+      "kodeMatkul": "UNI620107",
+      "mataKuliah": "Pendidikan Kewarganegaraan",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2020/2021 Genap",
+      "kodeMatkul": "UNI620107",
+      "mataKuliah": "Pendidikan Kewarganegaraan",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2020/2021 Genap",
+      "kodeMatkul": "KIM620214",
+      "mataKuliah": "Biokimia I",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2020/2021 Ganjil",
+      "kodeMatkul": "UNI620108",
+      "mataKuliah": "Pendidikan Pancasila",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2020/2021 Ganjil",
+      "kodeMatkul": "UNI620108",
+      "mataKuliah": "Pendidikan Pancasila",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2020/2021 Ganjil",
+      "kodeMatkul": "KIM620306",
+      "mataKuliah": "Biokimia II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Genap",
+      "kodeMatkul": "UNI616107",
+      "mataKuliah": "pendidikan kewarganegaraan",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Genap",
+      "kodeMatkul": "UNI616107",
+      "mataKuliah": "pendidikan kewarganegaraan",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Genap",
+      "kodeMatkul": "KIM616451",
+      "mataKuliah": "KAPITA SELEKTA BIOKIMIA",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Genap",
+      "kodeMatkul": "KIM617106",
+      "mataKuliah": "DASAR BAHASA INGGRIS SAINS",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Genap",
+      "kodeMatkul": "KIM617206",
+      "mataKuliah": "BIOKIMIA I",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Genap",
+      "kodeMatkul": "BIO616119",
+      "mataKuliah": "BIOKIMIA",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Ganjil",
+      "kodeMatkul": "UNI617108",
+      "mataKuliah": "pendidikan pancasila",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Ganjil",
+      "kodeMatkul": "UNI617108",
+      "mataKuliah": "pendidikan pancasila",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Ganjil",
+      "kodeMatkul": "KIM616308",
+      "mataKuliah": "KIMIA BAHAN MAKANAN",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Ganjil",
+      "kodeMatkul": "BIO617135",
+      "mataKuliah": "BIOLOGI DASAR",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Ganjil",
+      "kodeMatkul": "KIM616306",
+      "mataKuliah": "BIOKIMIA II",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Ganjil",
+      "kodeMatkul": "KIM612207",
+      "mataKuliah": "BAHASA INGGRIS PROFESI",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2019/2020 Ganjil",
+      "kodeMatkul": "KIM617204",
+      "mataKuliah": "BAHASA INGGRIS PROFESI",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Genap",
+      "kodeMatkul": "KIM616327",
+      "mataKuliah": "TEK PENEL. BIOKIMIA",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Genap",
+      "kodeMatkul": "KIM616310",
+      "mataKuliah": "KIMIA INDUSTRI",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Genap",
+      "kodeMatkul": "KIM616310",
+      "mataKuliah": "KIMIA INDUSTRI",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Genap",
+      "kodeMatkul": "KIM616310",
+      "mataKuliah": "KIMIA INDUSTRI",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Genap",
+      "kodeMatkul": "KIM612401",
+      "mataKuliah": "KIMIA INDUSTRI",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Genap",
+      "kodeMatkul": "KIM617106",
+      "mataKuliah": "DASAR BAHASA INGGRIS SAINS",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Genap",
+      "kodeMatkul": "KIM612301",
+      "mataKuliah": "BIOKIMIA II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Genap",
+      "kodeMatkul": "KIM617206",
+      "mataKuliah": "BIOKIMIA I",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM617104",
+      "mataKuliah": "PRAKTIKUM KIMIA DALAM KEHIDUPAN",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM616309",
+      "mataKuliah": "PRAKT. BIOKIMIA II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM612401",
+      "mataKuliah": "KIMIA INDUSTRI",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM612401",
+      "mataKuliah": "KIMIA INDUSTRI",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM612401",
+      "mataKuliah": "KIMIA INDUSTRI",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM617102",
+      "mataKuliah": "KIMIA DALAM KEHIDUPAN",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM616308",
+      "mataKuliah": "KIMIA BAHAN MAKANAN",
+      "kelas": "C",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM616308",
+      "mataKuliah": "KIMIA BAHAN MAKANAN",
+      "kelas": "B",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM816212",
+      "mataKuliah": "ENZIM INDUSTRI",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "BIO617135",
+      "mataKuliah": "BIOLOGI DASAR",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM612301",
+      "mataKuliah": "BIOKIMIA II",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2018/2019 Ganjil",
+      "kodeMatkul": "KIM617204",
+      "mataKuliah": "BAHASA INGGRIS PROFESI",
+      "kelas": "A",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2014/2015 Ganjil",
+      "kodeMatkul": "KI-412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2014/2015 Ganjil",
+      "kodeMatkul": "KI412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "KI498",
+      "mataKuliah": "SENINAR HASIL PENELITIAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "UNI612114",
+      "mataKuliah": "PENDIDIKAN AGAMA HINDU",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "UNI612107",
+      "mataKuliah": "PANCASILA DAN KEWARGANEGARAAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "KIM612104",
+      "mataKuliah": "KIMIA ORGANIK I",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "KIM105",
+      "mataKuliah": "KIMIA DASAR",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "KIM105",
+      "mataKuliah": "KIMIA DASAR",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "KIM612151",
+      "mataKuliah": "KIMIA DASAR",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "KIM612107",
+      "mataKuliah": "KIMIA DALAM KEHIDUPAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Genap",
+      "kodeMatkul": "KI412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Ganjil",
+      "kodeMatkul": "KI498",
+      "mataKuliah": "SENINAR HASIL PENELITIAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Ganjil",
+      "kodeMatkul": "KI411",
+      "mataKuliah": "KROMATOGRAFI",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Ganjil",
+      "kodeMatkul": "KI412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2013/2014 Ganjil",
+      "kodeMatkul": "UNI612108",
+      "mataKuliah": "BAHASA INGGRIS",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Genap",
+      "kodeMatkul": "KI498",
+      "mataKuliah": "SENINAR HASIL PENELITIAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Genap",
+      "kodeMatkul": "KIM612151",
+      "mataKuliah": "KIMIA DASAR",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Genap",
+      "kodeMatkul": "KIM105",
+      "mataKuliah": "KIMIA DASAR",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Genap",
+      "kodeMatkul": "KI412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Genap",
+      "kodeMatkul": "MPK612107",
+      "mataKuliah": "KEWARGANEGARAAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Genap",
+      "kodeMatkul": "MPK612107",
+      "mataKuliah": "KEWARGANEGARAAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Ganjil",
+      "kodeMatkul": "EIE612102",
+      "mataKuliah": "KIMIA ELEKTROTEKNIK",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Ganjil",
+      "kodeMatkul": "KI-412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2012/2013 Ganjil",
+      "kodeMatkul": "KI412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2010/2011 Genap",
+      "kodeMatkul": "KIM414",
+      "mataKuliah": "ORGANISASI LABORATORIUM",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2010/2011 Genap",
+      "kodeMatkul": "KIM111",
+      "mataKuliah": "KIMIA ANALITIK",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2010/2011 Genap",
+      "kodeMatkul": "KIM412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN 1",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2010/2011 Ganjil",
+      "kodeMatkul": "KIM411",
+      "mataKuliah": "KROMATOGRAFI",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2010/2011 Ganjil",
+      "kodeMatkul": "KIM105",
+      "mataKuliah": "KIMIA DASAR",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2010/2011 Ganjil",
+      "kodeMatkul": "KIM412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN 1",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2009/2010 Genap",
+      "kodeMatkul": "KIM414",
+      "mataKuliah": "ORGANISASI LABORATORIUM",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2009/2010 Genap",
+      "kodeMatkul": "MI24210",
+      "mataKuliah": "MANAJEMEN SAINS",
+      "kelas": "17",
+      "perguruanTinggi": "Universitas Komputer Indonesia",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2009/2010 Genap",
+      "kodeMatkul": "KIM211",
+      "mataKuliah": "KIMIA ANALITIK I",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2009/2010 Genap",
+      "kodeMatkul": "KMA111",
+      "mataKuliah": "KIMIA ANALITIK",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2009/2010 Ganjil",
+      "kodeMatkul": "KIM414",
+      "mataKuliah": "ORGANISASI LABORATORIUM",
+      "kelas": "1 ",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2009/2010 Ganjil",
+      "kodeMatkul": "KIM411",
+      "mataKuliah": "KROMATOGRAFI",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2009/2010 Ganjil",
+      "kodeMatkul": "KIM105",
+      "mataKuliah": "KIMIA DASAR",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2009/2010 Ganjil",
+      "kodeMatkul": "KIM412",
+      "mataKuliah": "KIMIA ANALISIS TERAPAN 1",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2008/2009 Genap",
+      "kodeMatkul": "KIM414",
+      "mataKuliah": "ORGANISASI LABORATORIUM",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2008/2009 Genap",
+      "kodeMatkul": "KIM111",
+      "mataKuliah": "KIMIA ANALITIK",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2008/2009 Genap",
+      "kodeMatkul": "KIM017",
+      "mataKuliah": "CARA-CARA PEMISAHAN",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Lampung",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Genap",
+      "kodeMatkul": "8C6213",
+      "mataKuliah": "PENGANTAR MIKROPROSESSOR",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Genap",
+      "kodeMatkul": "MIL3052",
+      "mataKuliah": "PEMODELAN LINGKUNGAN",
+      "kelas": "24",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Genap",
+      "kodeMatkul": "8C6143",
+      "mataKuliah": "OCEANOGRAFI PANTAI",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Genap",
+      "kodeMatkul": "8C6033",
+      "mataKuliah": "HIDROLOGI",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Genap",
+      "kodeMatkul": "5G4053",
+      "mataKuliah": "GETARAN DAN GELOMBANG",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Genap",
+      "kodeMatkul": "8C4024",
+      "mataKuliah": "FISIKA KOMPUTASI",
+      "kelas": "03",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Genap",
+      "kodeMatkul": "8C6193",
+      "mataKuliah": "ELEKTRONIKA LANJUT 2",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Genap",
+      "kodeMatkul": "8C6153",
+      "mataKuliah": "DINAMIKA LAUT",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Ganjil",
+      "kodeMatkul": "8A7053",
+      "mataKuliah": "SISTEM INFORMASI GEOGRAFI",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Ganjil",
+      "kodeMatkul": "8B7053",
+      "mataKuliah": "SISTEM INFORMASI GEOGRAFI",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Ganjil",
+      "kodeMatkul": "8C5043",
+      "mataKuliah": "PENGANTAR GEOFISIKA",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Ganjil",
+      "kodeMatkul": "8C5093",
+      "mataKuliah": "PASANG SURUT",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Ganjil",
+      "kodeMatkul": "8C3024",
+      "mataKuliah": "ELEKTRONIKA DASAR",
+      "kelas": "03",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2004/2005 Ganjil",
+      "kodeMatkul": "8C5223",
+      "mataKuliah": "ARUS BOLAK-BALIK",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2003/2004 Genap",
+      "kodeMatkul": "8C6033",
+      "mataKuliah": "HIDROLOGI",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2003/2004 Genap",
+      "kodeMatkul": "8C4033",
+      "mataKuliah": "GELOMBANG",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2003/2004 Genap",
+      "kodeMatkul": "8C4024",
+      "mataKuliah": "FISIKA KOMPUTASI",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2003/2004 Genap",
+      "kodeMatkul": "8C4072",
+      "mataKuliah": "FISIKA EKSPERIMEN II",
+      "kelas": "02",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2003/2004 Ganjil",
+      "kodeMatkul": "8C3043",
+      "mataKuliah": "METODE NUMERIK",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2003/2004 Ganjil",
+      "kodeMatkul": "8C5023",
+      "mataKuliah": "FISIKA STATISTIK",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2003/2004 Ganjil",
+      "kodeMatkul": "8C3024",
+      "mataKuliah": "ELEKTRONIKA DASAR",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2002/2003 Genap",
+      "kodeMatkul": "8C4033",
+      "mataKuliah": "GELOMBANG",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2002/2003 Genap",
+      "kodeMatkul": "8C4014",
+      "mataKuliah": "FISIKA MATEMATIKA II",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2002/2003 Genap",
+      "kodeMatkul": "8A2053",
+      "mataKuliah": "FISIKA DASAR II",
+      "kelas": "01",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2002/2003 Ganjil",
+      "kodeMatkul": "8C3043",
+      "mataKuliah": "METODE NUMERIK",
+      "kelas": "00",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2002/2003 Ganjil",
+      "kodeMatkul": "8C3054",
+      "mataKuliah": "LISTRIK MAGNET",
+      "kelas": "00",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "semester": "2002/2003 Ganjil",
+      "kodeMatkul": "8C3024",
+      "mataKuliah": "ELEKTRONIKA DASAR",
+      "kelas": "00",
+      "perguruanTinggi": "Universitas Mulawarman",
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    }
+  ],
+  "teachingSummaryUnila": {
+    "mataKuliah": [
+      "Biokimia I dan II (S1 Kimia)",
+      "Kimia Bahan Makanan (S1 Kimia)",
+      "Rekayasa Biokimia (S2 Kimia)"
+    ],
+    "bahanAjar": "Video Pembelajaran Biokimia di platform YouTube untuk mahasiswa S1 Kimia",
+    "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+  },
+  "research": [
+    {
+      "judul": "EKSPLORASI BAKTERI SEDIMEN MANGROVE LAMPUNG SEBAGAI SUMBER SENYAWA ANTIBAKTERI BARU DALAM MENGATASI PSEUDOMONAS AERUGINOSA MULTIDRUG-RESISTANT",
+      "ketua": "Mulyono",
+      "anggota": [
+        "Heri Satria",
+        "Aristoteles",
+        "Junaidi"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA BLU FMIPA ( PENELITIAN DIPA BLU FMIPA )",
+      "tahun": 2026,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "RANCANG BANGUN SISTEM INFORMASI PEJABAT PENGELOLA INFORMASI DAN DOKUMENTASI (PPID) FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM UNIVERSITAS LAMPUNG",
+      "ketua": "Aristoteles",
+      "anggota": [
+        "Heri Satria",
+        "Junaidi"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA BLU FMIPA ( PENELITIAN DIPA BLU FMIPA )",
+      "tahun": 2026,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "RANCANG BANGUN SPEKTROMETER ULTRAVIOLET VISIBLE DAN INFRARED (UV-VIS-IR) MENGGUNAKAN WEBCAM DAN ARDUINO UNO BERBASIS SOFTWARE THERMINO DAN PHYTON",
+      "ketua": "Junaidi",
+      "anggota": [
+        "Aristoteles",
+        "Heri Satria",
+        "Mulyono"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA BLU FMIPA ( PENELITIAN DIPA BLU FMIPA )",
+      "tahun": 2026,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "REKAYASA SINTESIS NANO-HIDROGEL BERBASIS SELULOSA DARI LIMBAH PERTANIAN",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Junaidi",
+        "Mulyono",
+        "Aristoteles"
+      ],
+      "peran": "Ketua",
+      "skema": "PENELITIAN DIPA BLU FMIPA ( PENELITIAN DIPA BLU FMIPA )",
+      "tahun": 2026,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "BIOKONVERSI BIOMASS LIGNOSELULOSE TERPRETREATMENT ASAM LEMAH MENJADI ETANOL DENGAN MEMANFAATKKAN AGENT HYDROLYSIS ENZYMATIC ACTINOMYCETES LOKAL",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Kamisah Delilawati Pandiangan",
+        "Kamisah Delilawati Pandiangan"
+      ],
+      "peran": "Ketua",
+      "skema": "PENELITIAN DIPA LPPM ( PNT )",
+      "tahun": 2025,
+      "dana": "Rp. 30.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "APLIKASI SENYAWA TURUNAN DIBUTILTIMAH(IV) BENZOAT SEBAGAI AGEN ANTIKANKER YANG AMPUH DAN AMAN",
+      "jenis": "Penelitian",
+      "tahun": 2025,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "PENGEMBANGAN LAPISAN ANTI-KOROSI MELALUI PEMBENTUKAN IKATAN ANTARA ASAM SITRAT DENGAN SELULOSA AEROGEL",
+      "ketua": "Suripto Dwi Yuwono",
+      "anggota": [
+        "Heri Satria",
+        "Viyanti"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA LPPM ( PNKI )",
+      "tahun": 2024,
+      "dana": "Rp. 75.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "PENGEMBANGAN BIOPRETREATMENT DALAM PRODUKSI BIOETANOL MEMANFAATKAN LIMBAH PADAT PERTANIAN DAN EKSTRASELULAR HIDROLITIK ENZIM DARI ISOLAT INDIGENOUS ACTINOMYCETES TERPILIH",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Kamisah Delilawati Pandiangan",
+        "Ridho Sholehurrohman"
+      ],
+      "peran": "Ketua",
+      "skema": "PENELITIAN DIPA FMIPA ( PN FMIPA )",
+      "tahun": 2024,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "KLASIFIKASI SPERMA MANUSIA BERDASARKAN MORFOLOGI MENGGUNAKAN METODE YOLOV5",
+      "ketua": "Ridho Sholehurrohman",
+      "anggota": [
+        "Aristoteles",
+        "Heri Satria"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA FMIPA ( PN FMIPA )",
+      "tahun": 2024,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ],
+      "jenis": "Penelitian"
+    },
+    {
+      "judul": "TRANSFORMASI SELULOSA DARI LIMBAH BROMELIN NANAS MENGGUNAKAN ISOLAT ACTINOMYCETES MANGROVE TERPILIH MENJADI ASAM LAKTAT MELALUI PROSES HIDROLISIS DAN FERMENTASI TERPISAH (SHF)",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Ridho Sholehurrohman"
+      ],
+      "peran": "Ketua",
+      "skema": "PENELITIAN DIPA LPPM ( PNINST )",
+      "tahun": 2024,
+      "dana": "Rp. 50.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches"
+    },
+    {
+      "judul": "Produksi Inhibitor Ramah Lingkungan Untuk Pengendalian Pembentukan Kerak Kalsium Karbonat Pada Boiler",
+      "ketua": "Prof. Dr. Suharso",
+      "anggota": [
+        "Tugiyono",
+        "Heri Satria"
+      ],
+      "peran": "Anggota",
+      "skema": "Penelitian Kompetitif Nasional ( PTB )",
+      "tahun": 2024,
+      "dana": "Rp. 420.950.000",
+      "status": "Approved",
+      "sumberDataSinta": "BIMA SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ],
+      "jenis": "Penelitian"
+    },
+    {
+      "judul": "APLIKASI SENYAWA TRIFENILTIMAH(IV) HIDROKSIBENZOAT SEBAGAI PENGHAMBAT KOROSI PADA BAJA LUNAK",
+      "ketua": "Sutopo Hadi",
+      "anggota": [],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA LPPM ( PNPT )",
+      "tahun": 2024,
+      "dana": "Rp. 40.000.000",
+      "source": "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+    },
+    {
+      "judul": "Analisis Pengunaan EDTA/C10H16N2O8 Terhadap Kemurnian TiO2 dari Hasil Ekstraksi Pasir Besi Lampung untuk Pembuatan Sensor Gas Berbasiskan Silicon Wafer sebagai Substrat",
+      "jenis": "Penelitian",
+      "tahun": 2023,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "INNOVATION OF SUCCESSIVE PROCESSES FOR PRODUCTION OF NANO-HYDROGEL DRUGS BASED ON RESIDUE OF CELLULOSE FRACTION OF AGRICULTURAL WASTE USING IONIC LIQUIDS AND INDIGENOUS MICROORGANISMS",
+      "jenis": "Penelitian",
+      "tahun": 2023,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "KARAKTERISASI LIPASE DARI MIKROBA INDIGEN LOKAL TOLERAN PELARUT ORGANIK DAN PERANNYA DALAM BIOREMEDIASI LIMBAH POME (PALM OIL MILL EFFLUENT)",
+      "jenis": "Penelitian",
+      "tahun": 2022,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "PENINGKATAN KESTABILAN ENZIM -AMILASE MENGGUNAKAN METODE AMOBILISASI SEBAGAI BIOKATALISATOR DALAM PROSES BIOKONVERSI PATI SINGKONG MENJADI SIRUP GULA CAIR",
+      "jenis": "Penelitian",
+      "tahun": 2021,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Invensi Proses Simultaneous Pretreatment Saccharification Fermentation (SPSF) untuk Biokonversi Biomassa menjadi Bioalkohol dengan Pemanfaatan Efek Sinergi Biokompatibel Ionic Liquids dan Mikroba Indigenus",
+      "jenis": "Penelitian",
+      "tahun": 2019,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    }
+  ],
+  "communityService": [
+    {
+      "judul": "EDUKASI KONSEP REAKSI KIMIA DASAR PADA SISWA MELALUI DESIMINASI EKSPERIMEN KIMIA SEDERHANA",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Kamisah Delilawati Pandiangan",
+        "Mulyono"
+      ],
+      "peran": "Ketua",
+      "skema": "PENELITIAN DIPA LPPM ( PKMDHR )",
+      "tahun": 2026,
+      "dana": "Rp. 35.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "EDUKASI SAINS SEDERHANA: DESIMINASI PEMANFAATAN DAUN SEREH WANGI DALAM PEMBUATAN SABUN CAIR RAMAH LINGKUNGAN PADA SISWA SEKOLAH DASAR",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Ridho Sholehurrohman"
+      ],
+      "peran": "Ketua",
+      "skema": "PKM DIPA BLU LPPM ( PM DHR )",
+      "tahun": 2025,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "EDUKASI SAINS SEDERHANA: DESIMINASI PEMANFAATAN DAUN SEREH WANGI DALAM PEMBUATAN SABUN CAIR RAMAH LINGKUNGAN UNTUK SISWA SEKOLAH DASAR",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Mulyono",
+        "Mulyono"
+      ],
+      "peran": "Ketua",
+      "skema": "PKM DIPA BLU LPPM ( PM DHR )",
+      "tahun": 2025,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "PENDAMPINGAN KELOMPOK DASAWISMA RT 003/ RW 001 DUSUN BATARANILA HAJIMENA LAMPUNG SELATAN DALAM PENGOLAHAN SAMPAH RUMAH TANGGA MENJADI PRODUK BERNILAI EKONOMIS",
+      "ketua": "Ilim",
+      "anggota": [
+        "Heri Satria",
+        "Agung Abadi Kiswandono"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA FMIPA ( PKM FMIPA )",
+      "tahun": 2024,
+      "dana": "Rp. 10.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "CARE OF TOGETHERNESS IN TOLERANCE: EMPOWERMENT OF AMALGAMATION COUPLES IN THE INDONESIAN DIASPORA IN FRANCE",
+      "ketua": "Bartoven Vivit Nurdin",
+      "anggota": [
+        "Wulan Suciska",
+        "Heri Satria"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA LPPM ( PKM KINT )",
+      "tahun": 2024,
+      "dana": "Rp. 50.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ],
+      "jenis": "Pengabdian Masyarakat"
+    },
+    {
+      "judul": "PELATIHAN KETERAMPILAN MICROSOFT WORD BAGI GURU SEKOLAH DASAR NEGERI 2 PAMPANGAN",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Ridho Sholehurrohman"
+      ],
+      "peran": "Ketua",
+      "skema": "PENELITIAN DIPA LPPM ( PKMI )",
+      "tahun": 2024,
+      "dana": "Rp. 35.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "SOCIALIZATION CONCERNING THE ROLES OF WOMEN IN THE PLURAL PERSPECTIVES OF ISLAM IN INDONESIA BAGI PEREMPUAN ISLAM DI PRANCIS",
+      "ketua": "Ari Darmastuti",
+      "anggota": [
+        "Arie Fitria",
+        "Heri Satria"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA LPPM ( PKM KINT )",
+      "tahun": 2024,
+      "dana": "Rp. 50.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "SOSIALISASI KIAT SUKSES MENGHADAPI SELEKSI MASUK PERGURUAN TINGGI DI UNIVERSITI SAINS MALAYSIA",
+      "ketua": "Suripto Dwi Yuwono",
+      "anggota": [
+        "Heri Satria",
+        "Viyanti"
+      ],
+      "peran": "Anggota",
+      "skema": "PENELITIAN DIPA LPPM ( PKM KINT )",
+      "tahun": 2024,
+      "dana": "Rp. 50.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "PENDAMPINGAN IMPLEMENTASI TEKNOLOGI EKTRAKSI BAHAN AKTIF DAUN SEREH WANGI SEBAGAI INGRIDIEN SABUN CAIR UMKM MANJA DESA REJOMULYO LAMPUNG SELATAN",
+      "ketua": "Heri Satria",
+      "anggota": [
+        "Jamiatul Akmal",
+        "Nur Hasanah"
+      ],
+      "peran": "Ketua",
+      "skema": "PENELITIAN DIPA LPPM ( PKMU )",
+      "tahun": 2024,
+      "dana": "Rp. 20.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ],
+      "jenis": "Pengabdian Masyarakat"
+    },
+    {
+      "judul": "SOCIALIZATION CONCERNING THE ROLES OF WOMEN IN THE PLURAL PERSPECTIVES OF ISLAM IN INDONESIA",
+      "jenis": "Pengabdian Masyarakat",
+      "tahun": 2024,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "DISEMINASI TEKNOLOGI PENGURAI SAMPAH UNTUK PEMBUATAN KOMPOS DARI DAUN KERING DI DUSUN PEMATANG ASIH KABUPATEN WAY KANAN",
+      "ketua": "Kamisah Delilawati Pandiangan",
+      "anggota": [
+        "Heri Satria",
+        "Suharso"
+      ],
+      "peran": "Anggota",
+      "skema": "PENGABDIAN BLU FMIPA ( PKM FMIPA )",
+      "tahun": 2023,
+      "dana": "Rp. 5.000.000",
+      "status": "Approved",
+      "sumberDataSinta": "INTERNAL SOURCE",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+      "alsoListedIn": [
+        "https://fmipa.unila.ac.id/profil-staff/197110012005011002"
+      ]
+    },
+    {
+      "judul": "Pemanfaatan Pekarangan untuk Pengembangan Budidaya Lebah Madu Trigona Bagi Masyarakat Pemula Di Bandar Lampung",
+      "jenis": "Pengabdian Masyarakat",
+      "tahun": 2022,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "PEMBUATAN ECOENZIM DARI SAMPAH ORGANIK DI PERUMAHAN BATARANILA DESA HAJIMENA NATAR LAMPUNG SELATAN",
+      "jenis": "Pengabdian Masyarakat",
+      "tahun": 2022,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "PENGOLAHAN SAMPAH ORGANIK RUMAH TANGGA, DAN SAMPAH PASAR DENGAN TEKNIK SOLID LIQUID (SL) MENJADI PUPUK ORGANIK CAIR (POC) DI LINGKUNGAN FMIPA UNIVERSITAS LAMPUNG",
+      "jenis": "Pengabdian Masyarakat",
+      "tahun": 2022,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "PELATIHAN PEMBUATAN PRODUK KEBERSIHAN RUMAH TANGGA DI BUMDES PEKON TRIMULYO KECAMATAN GEDUNG SURIAN KABUPATEN LAMPUNG BARAT",
+      "jenis": "Pengabdian Masyarakat",
+      "tahun": 2021,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    },
+    {
+      "judul": "Pelatihan Pengenalan Jenis Tanaman Hias Indoor Dalam Rangka Mendukung Program Greenmetric di lingkungan FMIPA Universitas Lampung",
+      "jenis": "Pengabdian Masyarakat",
+      "tahun": 2021,
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+    }
+  ],
+  "communityServiceNarrativeUnila": {
+    "butir": [
+      "Pendampingan teknologi ekstraksi bahan aktif daun sereh wangi untuk bahan sabun cair UMKM di Desa Rejomulyo, Lampung Selatan (2024).",
+      "Edukasi pemanfaatan daun sereh wangi untuk sabun cair bagi siswa sekolah dasar di Lampung Barat (2025).",
+      "Kegiatan pengabdian Care Of Togetherness In Tolerance bagi pasangan amalgamasi diaspora Indonesia di Lyon, Prancis (2024)."
+    ],
+    "source": "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/"
+  },
+  "publications": [
+    {
+      "judul": "Beyond Waste: Unlocking the Potential of Cassava Byproducts for Biomedical Hydrogels with Effective Drug Delivery Capabilities",
+      "tahun": 2026,
+      "venue": "Journal of Multidisciplinary Applied Natural Science",
+      "kuartil": "Q2 as Journal",
+      "urutanPenulis": "0 of 4",
+      "creatorScopus": "Satria H.",
+      "sitasiScopus": 0,
+      "indeks": [
+        "Scopus"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-105044558471&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "DESIMINASI PEMANFAATAN DAUN SEREH WANGI UNTUK SABUN CAIR RAMAH LINGKUNGAN PADA SISWA SD",
+      "tahun": 2026,
+      "venue": "Badan Pelaksana Kuliah Kerja Nyata Universitas Lampung BUGUH: JURNAL PENGABDIAN KEPADA MASYARAKAT Vol. 6 No. 1 (2026): Maret 202633-37",
+      "penulis": "Satria, Heri; Mulyono; Dwi Yuwono, Suripto; Sholehurrohman, Ridho; D. Pandiangan, Kamisah; Hidayat, Diky",
+      "urutanPenulis": "1 of 6",
+      "doi": "10.23960/buguh.v6n1.2806",
+      "akreditasi": "Unknown",
+      "indeks": [
+        "Garuda",
+        "Google Scholar"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/6204433",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 1
+    },
+    {
+      "judul": "Penerapan Ecoprint Teknik Pounding sebagai Stimulasi Keterampilan Motorik Halus Siswa Sekolah Dasar di Desa Purworejo, Lampung Timur",
+      "tahun": 2026,
+      "penulis": "F Achmad, AJ Saputra, E Apritrycia, R Yuniarti, G Guntoro, H Susanto, ...",
+      "venue": "Jurnal Pengabdian Kepada Masyarakat (JPKM) TABIKPUN 7 (2), 107-116 , 2026",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:yB1At4FlUx8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Aplikasi Bahan Aktif Daun Sereh Wangi Pada Sabun Cair Produksi UMKM Manja Desa Rejomulyo",
+      "tahun": 2025,
+      "venue": "Faculty of Mathematics and Natural Sciences - Universitas Lampung Jurnal Pengabdian Kepada Masyarakat (JPKM) TABIKPUN Vol. 6 No. 1 (2025)101-110",
+      "penulis": "Satria, Heri; Nurhasanah, Nurhasanah; Juliasih, Ni Luh Gede Ratna; Akmal, Jamiatul; Alkausar, Radho; Amalia, Fildza; Kiswandono, Agung Abadi; Nazhifah, Naurah",
+      "urutanPenulis": "1 of 8",
+      "doi": "10.23960/jpkmt.v6i1.217",
+      "akreditasi": "Sinta 5",
+      "indeks": [
+        "Garuda",
+        "Google Scholar"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/5473869",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 4
+    },
+    {
+      "judul": "Bacterial Kinetics for Control of Shape and Biogenic Synthesis of Nanoparticles: A Review An environmentally friendly, scalable and economical process",
+      "tahun": 2025,
+      "venue": "Johnson Matthey Technology Review",
+      "kuartil": "Q2 as Journal",
+      "urutanPenulis": "5 of 15",
+      "creatorScopus": "Bahfie F.",
+      "sitasiScopus": 0,
+      "indeks": [
+        "Scopus"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-105016905727&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "DISEMINASI TEKNOLOGI PENGURAI SAMPAH UNTUK PEMBUATAN KOMPOS DARI DAUN KERING DI KAMPUNG WAY TUBA KECAMATAN GUNUNG LABUHAN KABUPATEN WAY KANAN",
+      "tahun": 2025,
+      "venue": "FMIPA Universitas Lampung ANDAN JEJAMA: Indonesian Journal of Community Engagement (IJCE) Vol. 4 No. 2 (2025): Indonesian Journal of Community Engagement (IJCE) ANDAN JEJAMA",
+      "penulis": "Al Kausar, Radho; D. Pandiangan, Kamisah; Satria, Heri; Satria, Suharso; Buhani, S.Pd., M.Si, Buhani; Simajuntak, Wasinton",
+      "urutanPenulis": "3 of 6",
+      "doi": "10.23960/ijceaj.v4i2.19",
+      "akreditasi": "Sinta 6",
+      "indeks": [
+        "Garuda",
+        "Google Scholar"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/5479791",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 0
+    },
+    {
+      "judul": "Inovasi Sabun Mandi Berbasis Rumput Laut: Systematic Review",
+      "tahun": 2025,
+      "penulis": "H Satria, P Emilinda, NP Ananda Resty",
+      "venue": "Science Technology and Management Journal 5 (1), 1-3 , 2025",
+      "sitasiScholar": 1,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:08ZZubdj9fEC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Pelatihan Optimalisasi Microsoft Word dalam Pengembangan Keterampilan Teknologi Informasi dan Komunikasi (TIK) Bagi Guru Sekolah Dasar Negeri 2 Pampangan. ABDIKAN: Jurnal …",
+      "tahun": 2025,
+      "penulis": "H Satria, SD Yuwono, R Sholehurrohman, A Aristoteles",
+      "venue": "",
+      "sitasiScholar": 8,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:4fKUyHm3Qg0C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Pineapple Waste Cellulose Hydrogel: A Sustainable Absorbent for Drug Delivery System",
+      "tahun": 2025,
+      "venue": "Trends in Sciences",
+      "kuartil": "Q2 as Journal",
+      "urutanPenulis": "1 of 6",
+      "creatorScopus": "Satria H.",
+      "sitasiScopus": 1,
+      "indeks": [
+        "Scopus",
+        "Google Scholar"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-105018683492&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "penulis": "H Satria, KD Pandiangan, H Afriyani, DI Alista, AR Afiria, F Nabila",
+      "sitasiScholar": 2
+    },
+    {
+      "judul": "Socialization Concerning the Roles of Women in the Plural Perspectives of Islam in Indonesia",
+      "tahun": 2025,
+      "penulis": "A Darmastuti, A Fitria, SD Yuwono, H Satria",
+      "venue": "Jurnal Pengabdian Dharma Wacana 5 (4), 408-422 , 2025",
+      "sitasiScholar": 1,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:l7t_Zn2s7bgC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Sosialisasi Kiat Sukses Menghadapi Seleksi Masuk Perguruan Tinggi",
+      "tahun": 2025,
+      "venue": "Lembaga Dongan Dosen Jurnal Pengabdian kepada Masyarakat Nusantara Vol. 6 No. 2 (2025): Jurnal Pengabdian kepada Masyarakat Nusantara Edisi April - Juni2194-2204",
+      "penulis": "Yuwono, Suripto Dwi; Satria, Heri; Viyanti, Viyanti",
+      "urutanPenulis": "2 of 3",
+      "doi": "10.55338/jpkmn.v6i2.5627",
+      "akreditasi": "Sinta 5",
+      "indeks": [
+        "Garuda",
+        "Google Scholar"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/5209573",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 0
+    },
+    {
+      "judul": "Study of water pollution parameters in the dry and rainy seasons on the pollution index of the Mesuji River, Lampung, Indonesia",
+      "tahun": 2025,
+      "venue": "Results in Chemistry",
+      "kuartil": "Q1 as Journal",
+      "urutanPenulis": "5 of 7",
+      "creatorScopus": "Istomi A.R.",
+      "sitasiScopus": 17,
+      "indeks": [
+        "Scopus",
+        "Google Scholar"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85213514366&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "penulis": "AR Istomi, H Satria, E Artika, AS Zulaicha",
+      "sitasiScholar": 21
+    },
+    {
+      "judul": "The Role of Academic Supervision in Enhancing Teachers’ Pedagogical Competence: A Case Study of South Aceh",
+      "tahun": 2025,
+      "venue": "PT FORMOSA CENDEKIA GLOBAL Indonesian Journal of Applied and Industrial Sciences (ESA) Vol. 4 No. 1 (2025): January 2025197 - 212",
+      "penulis": "Satria, Heri; Niswanto, Niswanto; Ismail, Ismail",
+      "urutanPenulis": "1 of 3",
+      "doi": "10.55927/esa.v4i1.12353",
+      "akreditasi": "Unknown",
+      "indeks": [
+        "Garuda"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/4902750",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "perluVerifikasi": true,
+      "catatanVerifikasi": "Tercantum di tab Garuda SINTA, tetapi jurnal dan rekan penulis tidak terkait Unila; kemungkinan milik penulis lain bernama sama.",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Antioxidant and Antibacterial Activities of Curd and Whey Kefir Produced from Etawa Goat Milk",
+      "tahun": 2024,
+      "venue": "Journal of Multidisciplinary Applied Natural Science",
+      "kuartil": "Q1 as Journal",
+      "urutanPenulis": "6 of 6",
+      "creatorScopus": "Sadewi S.M.",
+      "sitasiScopus": 4,
+      "indeks": [
+        "Scopus",
+        "Google Scholar"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85184413229&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "penulis": "SM Sadewi, N Nurhasanah, S Sudibyo, N Windayani, AA Kiswandono, ...",
+      "sitasiScholar": 11
+    },
+    {
+      "judul": "CLASSIFICATION OF HUMAN SPERM BASED ON MORPHOLOGY USING THE YOLOV5 METHOD",
+      "tahun": 2024,
+      "jenisPDDikti": "Makalah ilmiah",
+      "indeks": [
+        "PDDikti"
+      ],
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "HIGH-PERFORMANCE CaO/SiO2 COMPOSITE PREPARED FROM LIMESTONE AND PUMICE SILICA AS CATALYST FOR RUBBER SEED OIL TRANSESTERIFICATION",
+      "tahun": 2024,
+      "venue": "Rasayan Journal of Chemistry",
+      "kuartil": "Q3 as Journal",
+      "urutanPenulis": "2 of 7",
+      "creatorScopus": "Pandiangan K.D.",
+      "sitasiScopus": 6,
+      "indeks": [
+        "Scopus",
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85182153193&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "penulis": "KD Pandiangan, H Satria, Z Sembiring, W Simanjuntak, DI Alista, ...",
+      "sitasiScholar": 4,
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Pemberdayaan Diaspora Indonesia sebagai Agen Toleransi di Lyon, Prancis",
+      "tahun": 2024,
+      "penulis": "BV Nurdin, W Suciska, AG Zainal, D Despa, H Satri",
+      "venue": "Jurnal Sinergi Komunikasi 1 (2), 93-101 , 2024",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:t7zJ5fGR-2UC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Sosialisasi Dampak Teknologi Informasi Dalam Kehidupan Masyarakat",
+      "tahun": 2024,
+      "venue": "Universitas Teknokrat Indonesia Journal of Social Sciences and Technology for Community Service (JSSTCS) Vol 5, No 2 (2024): Volume 5, Nomor 2, September 2024197-202",
+      "penulis": "Sholehurrohman, Ridho; Aristoteles, Aristoteles; Satria, Heri; Mulyono, Mulyono; Junaidi, Junaidi",
+      "urutanPenulis": "3 of 5",
+      "doi": "10.33365/jsstcs.v5i2.4700",
+      "akreditasi": "Sinta 4",
+      "indeks": [
+        "Garuda",
+        "Google Scholar"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/4215799",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 2
+    },
+    {
+      "judul": "Synthesis of some chalcones derivatives series and their antituberculosis activity",
+      "tahun": 2024,
+      "venue": "Pure and Applied Chemistry",
+      "kuartil": "Q3 as Journal",
+      "urutanPenulis": "5 of 6",
+      "creatorScopus": "Noviany N.",
+      "sitasiScopus": 3,
+      "indeks": [
+        "Scopus",
+        "Google Scholar"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85183880288&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "penulis": "N Noviany, H Osman, S Mohamad, S Hadi, H Satria, B Buhani",
+      "sitasiScholar": 6
+    },
+    {
+      "judul": "Characterization of Organic Solvent Tolerance Lipase from Compost Indigenous Bacteria",
+      "tahun": 2023,
+      "penulis": "N Hasanah, A Laila, H Satria, N Juliasih, QN Husna",
+      "venue": "Atl. Highlights Chem. Pharm. Sci, 20-29 , 2023",
+      "sitasiScholar": 2,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:WbkHhVStYXYC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Prosiding seminar internasional"
+    },
+    {
+      "judul": "Employing Native Cellulase from Indigenous Actinomycetes ActM-4 Cultivation on Ionic Liquid-Pretreated Bagasse for Ethanol Production in Simultaneous Saccharification and Fermentation (SSF)",
+      "tahun": 2023,
+      "jenisPDDikti": "Makalah ilmiah",
+      "indeks": [
+        "PDDikti"
+      ],
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Konversi sampah organik di lingkungan fmipa universitas lampung menjadi pupuk organik cair (POC) dengan teknik soluble liquid (SL)",
+      "tahun": 2023,
+      "penulis": "S Bahri, J Hendri, A Laila, H Satria, Y Ambarwati",
+      "venue": "Jurnal Abdi Insani 10 (3), 1786-1792 , 2023",
+      "sitasiScholar": 5,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:nb7KW1ujOQ8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Multivariate Analysis ANOVA Based Distribution of Nitrogen Dioxide in Lampung Barat And Way Kanan Regencies",
+      "tahun": 2023,
+      "venue": "Department of Chemistry Faculty of Science and Technology Walisongo Walisongo Journal of Chemistry Vol 6, No 1 (2023): Walisongo Journal of Chemistry22-30",
+      "penulis": "Trina, Innamaa; Mutawakkilah, Qudwah; Rinawati, Rinawati; Satria, Heri; Kiswandono, Agung Abadi",
+      "urutanPenulis": "4 of 5",
+      "doi": "10.21580/wjc.v6i1.14858",
+      "akreditasi": "Sinta 2",
+      "indeks": [
+        "Garuda",
+        "Google Scholar"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/3617323",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 0
+    },
+    {
+      "judul": "PENGEMBANGAN INSTRUMEN PEMBELAJARAN MENGGUNAKAN VIDEO HOLOGRAM 3D DALAM MASA HYBIRD",
+      "tahun": 2023,
+      "venue": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat (LPPM) STMIK Indonesia Banda Aceh Jurnal Indonesia : Manajemen Informatika dan Komunikasi Vol. 4 No. 1 (2023): Januari343-348",
+      "penulis": "Arfa, Avini Nurazhimah; Julaeha, Siti; Awaludin, Aulia Ar Rakhman; Priambodo, Caka Gatot; Satria, Heri",
+      "urutanPenulis": "5 of 5",
+      "doi": "10.35870/jimik.v4i1.198",
+      "akreditasi": "Sinta 4",
+      "indeks": [
+        "Garuda"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/3940334",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "perluVerifikasi": true,
+      "catatanVerifikasi": "Tercantum di tab Garuda SINTA, tetapi jurnal dan rekan penulis tidak terkait Unila; kemungkinan milik penulis lain bernama sama.",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Pemanfaatan Botol Bekas untuk Vertical Garden sebagai Upaya Pencapaian Kampus Berkelanjutan Berbasis SDGs di Fakultas MIPA Universitas Lampung",
+      "tahun": 2023,
+      "venue": "Yayasan Pendidikan dan Kebudayaan Dharma Wacana Jurnal Pengabdian Dharma Wacana Vol 4, No 3 (2023): Jurnal Pengabdian Dharma Wacana283-295",
+      "penulis": "Priyambodo, Priyambodo; Laila, Aspita; Hendri, John; Rinawati, Rinawati; Satria, Heri",
+      "urutanPenulis": "5 of 5",
+      "doi": "10.37295/jpdw.v4i3.476",
+      "akreditasi": "Sinta 5",
+      "indeks": [
+        "Garuda",
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/4180143",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "sitasiScholar": 0,
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Simultaneous bioconversion of rice straw into an intermediate product using ionic liquid and native extracellular hydrolytic enzyme from indigenous actinomycetes",
+      "tahun": 2023,
+      "venue": "Proceedin Iop Conference Series Earth and Environmental Science",
+      "kuartil": "Q3 as Conference",
+      "urutanPenulis": "1 of 5",
+      "creatorScopus": "Satria H.",
+      "sitasiScopus": 0,
+      "indeks": [
+        "Scopus",
+        "Google Scholar"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85164783450&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "penulis": "H Satria, SD Yuwono, Rinawati, Nurhasanah, AY Ellen",
+      "sitasiScholar": 0
+    },
+    {
+      "judul": "The stability increase of α-amylase enzyme from Aspergillus fumigatus using dimethyladipimidate",
+      "tahun": 2023,
+      "venue": "Physical Sciences Reviews",
+      "kuartil": "Q3 as Journal",
+      "urutanPenulis": "4 of 5",
+      "creatorScopus": "Yandri Y.",
+      "sitasiScopus": 3,
+      "indeks": [
+        "Scopus",
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85129060452&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "penulis": "Y Yandri, N Nurmala, T Suhartati, H Satria, S Hadi",
+      "sitasiScholar": 5,
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Optimasi Produksi Biosurfaktan dari Bakteri Indigen Bacillus sp. PKT D4 dengan Variasi Sumber Nitrogen",
+      "tahun": 2022,
+      "penulis": "RM Rosi, N Nurhasanah, I Ilim, H Satria, M Mulyono",
+      "venue": "Prosiding Seminar Nasional Sains, Matematika, Informatika dan Aplikasinya VI … , 2022",
+      "sitasiScholar": 1,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:abG-DnoFyZgC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Prosiding seminar nasional"
+    },
+    {
+      "judul": "Penambahan bubuk bunga rosella (Hibiscus sabdariffa) sebagai antioksidan alami pada minyak goreng curah Addition of rosella flower (Hibiscus sabdariffa) powder addition on the …",
+      "tahun": 2022,
+      "penulis": "RA Fardani, H Satria",
+      "venue": "Journal of Agritechnology and Food Processing 2 (2) , 2022",
+      "sitasiScholar": 3,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:UxriW0iASnsC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "The Stability Improvement of Aspergillus fumigatus α -Amylase by Immobilization onto Chitin-Bentonite Hybrid",
+      "tahun": 2022,
+      "venue": "Biochemistry Research International",
+      "kuartil": "Q3 as Journal",
+      "urutanPenulis": "4 of 6",
+      "creatorScopus": "Tiarsa E.R.",
+      "sitasiScopus": 26,
+      "indeks": [
+        "Scopus",
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85127890314&origin=resultslist",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "penulis": "ER Tiarsa, Y Yandri, T Suhartati, H Satria, B Irawan, S Hadi",
+      "sitasiScholar": 31,
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "The Stability Improvement of α ‐Amylase Enzyme from Aspergillus fumigatus by Immobilization on a Bentonite Matrix",
+      "tahun": 2022,
+      "penulis": "Y Yandri, ER Tiarsa, T Suhartati, H Satria, B Irawan, S Hadi",
+      "venue": "Biochemistry research international 2022 (1), 3797629 , 2022",
+      "sitasiScholar": 40,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:D03iK_w7-QYC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "The stability improvement of α-amylase enzyme from aspergillus fumigatus by immobilization on a bentonite matrix. Biochem. Res Int (2022)",
+      "tahun": 2022,
+      "penulis": "Y Yandri, ER Tiarsa, T Suhartati, H Satria, B Irawan, S Hadi",
+      "venue": "",
+      "sitasiScholar": 5,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:9Nmd_mFXekcC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Effect of glutaraldehyde addition on the stability of the α-amylase from Bacillus subtilis ITBCCB148",
+      "tahun": 2021,
+      "penulis": "Y Witazora, Yandri, T Suhartati, H Satria, S Hadi",
+      "venue": "Journal of Physics: Conference Series 1751 (1), 012097 , 2021",
+      "sitasiScholar": 8,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:ldfaerwXgEUC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Prosiding seminar internasional"
+    },
+    {
+      "judul": "Essential requirements of biocompatible cellulose solvents",
+      "tahun": 2021,
+      "penulis": "T Komori, H Satria, K Miyamura, A Ito, M Kamiya, A Sumino, T Onishi, ...",
+      "venue": "ACS Sustainable Chemistry & Engineering 9 (35), 11825-11836 , 2021",
+      "sitasiScholar": 36,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:rO6llkc54NcC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "GRAFTING ENGINEERING OF HYDROGEL MICROCOMPOSITE MATERIALS OBTAIN FROM BAGASSE CASSAVA WASTE CELLULOSE FACTION RESIDUAL",
+      "tahun": 2021,
+      "penulis": "H Satria, RA Antika, KD Pandiangan, N Nurhasanah, A Laila",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:dTyEYWd-f8wC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Pendampingan Pra Dan Pasca Produksi Hand Soap KUB Mulya Mandiri Desa Fajar Baru Kabupaten Lampung Selatan",
+      "tahun": 2021,
+      "venue": "Faculty of Mathematics and Natural Sciences - Universitas Lampung Jurnal Pengabdian Kepada Masyarakat (JPKM) TABIKPUN Vol. 2 No. 2 (2021)179–188",
+      "penulis": "Heri Satria; Nurhasanah Nurhasanah; Agung Abadi Kiswandono; Jamiatul Akmal",
+      "urutanPenulis": "1 of 4",
+      "doi": "10.23960/jpkmt.v2i2.45",
+      "akreditasi": "Sinta 5",
+      "indeks": [
+        "Garuda",
+        "Google Scholar"
+      ],
+      "link": "https://garuda.kemdiktisaintek.go.id/documents/detail/2220815",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 2
+    },
+    {
+      "judul": "Production, purification and characterization of the α-amylase from local bacteria isolate Bacillus subtilis ITBCCB148",
+      "tahun": 2021,
+      "penulis": "Y Witazora, T Suhartati, H Satria, S Hadi",
+      "venue": "Journal of Physics: Conference Series 1751 (1) , 2021",
+      "sitasiScholar": 7,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:M05iB0D1s5AC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Prosiding seminar internasional"
+    },
+    {
+      "judul": "SKRINING BAKTERI TERMOFILIK PENGHASIL LIPASE DARI AIR PANAS KAWAH KERAMIKAN LAMPUNG BARAT",
+      "tahun": 2021,
+      "penulis": "N Nurhasanah, AH Eza, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:AXPGKjj_ei8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Makalah ilmiah"
+    },
+    {
+      "judul": "Stability enhancement of Bacillus subtilis ITBCCB148 originating-amylase by immobilization using chitin",
+      "tahun": 2021,
+      "penulis": "Y Yandri, T Suhartati, H Satria, S Karlinasari, SD Yuwono, S Hadi",
+      "venue": "Journal of Advanced Pharmacy Education & Research 11 (3), 63-69 , 2021",
+      "sitasiScholar": 8,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:3s1wT3WcHBgC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Synthesis and antimalarial activity of some triphenyltin(IV) aminobenzoate compounds against Plasmodium falciparum",
+      "tahun": 2021,
+      "penulis": "S Hadi, MD Fenska, N Noviany, H Satria, W Simanjuntak, MM Naseer",
+      "venue": "Main Group Metal Chemistry 44 (1), 256-260 , 2021",
+      "sitasiScholar": 24,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:zA6iFVUQeVQC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Transesterification of Rubber Seed Oil with Methanol Using Natural Zeolite Supported NiO Catalyst",
+      "tahun": 2021,
+      "penulis": "KD Pandiangan, W Simanjuntak, DA Sinaga, H Satria, DI Alista",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:VOx2b1Wkg3QC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "UTILIZATION OF CELLULOSE RESIDUAL FRACTION FROM CASSAVA PEEL WASTE TO PRODUCE MICRO COMPOSITE HYDROGEL",
+      "tahun": 2021,
+      "penulis": "H Satria, R Handayani, AT Setyaningsih, D Herasari, I Ilim",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:olpn-zPbct0C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Analisis eksopolisakarida dari bakteri asam laktat hasil fermentasi kefir kolostrum",
+      "tahun": 2020,
+      "penulis": "N Nurhasanah, IT Fu'adah, H Satria, SD Yuwono",
+      "venue": "Analit: Analytical and Environmental Chemistry, 65-73 , 2020",
+      "sitasiScholar": 16,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:hFOr9nPyWt4C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Characterization of Selected Lipolytic Bacteria from Domestic Waste Composting Process",
+      "tahun": 2020,
+      "penulis": "N Nurhasanah, HS Heri Satria, L Fransiska",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:epqYDVWIO7EC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Enzymatic Conversion of Potato Starch into Glucose using The purified α-Amylase Enzyme from Locale Isolate Bacteria Bacillus subtillis ITBCCB148",
+      "tahun": 2020,
+      "penulis": "S Karlinasari, T Suhartati, H Satria, S Hadi, Y Yandri",
+      "venue": "Proceeding 2nd International Conference on Science and Technology 2019 (1 … , 2020",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:J-pR_7NvFogC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Extracellular hydrolytic enzyme activities of indigenous actinomycetes on pretreated bagasse using choline acetate ionic liquid",
+      "tahun": 2020,
+      "penulis": "H Satria, SD Yuwono, D Herasari",
+      "venue": "Biocatalysis and Agricultural Biotechnology 24, 101503 , 2020",
+      "sitasiScholar": 8,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:mVmsd5A6BfQC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Increasing Stability of-amylase Obtained from Bacillus subtilis ITBCCB148 by Immobilization with Chitosan",
+      "tahun": 2020,
+      "penulis": "Y Yandri, T Suhartati, H Satria, S Hadi",
+      "venue": "Mediterranean Journal of Chemistry 10 (2), 155-161 , 2020",
+      "sitasiScholar": 22,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:hC7cP41nSMkC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Mencegah Penyebaran Covid-19: KUB Mulya Mandiri Didampingi Tim Dosen Unila Mengadakan Pembuatan Handsoap Antiseptik",
+      "tahun": 2020,
+      "penulis": "HS Heri Satria, N Nurhasanah, A Jamiatul, AA Kiswandono",
+      "venue": "Harian Nasional Radar Lampung , 2020",
+      "sitasiScholar": 1,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:uc_IGeMz5qoC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "PELATIHAN PEMBUATAN HANDSOAP ANTISEPTIK PADA KUB MULYA MANDIRI DESA FAJAR BARU, JATI AGUNG, LAMPUNG SELATAN",
+      "tahun": 2020,
+      "penulis": "HS Heri Satria, N Nurhasanah, AAK Agung Abadi Kiswandono, ...",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:ipzZ9siozwsC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Peningkatan kestabilan enzim α-amilase dengan penambahan sorbitol",
+      "tahun": 2020,
+      "penulis": "Y Yandri, F Wahyuningsih, T Suhartati, H Satria, S Hadi",
+      "venue": "",
+      "sitasiScholar": 3,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:lSLTfruPkqcC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Peningkatan kestabilan enzim α–amilase dengan penambahan gliserol",
+      "tahun": 2020,
+      "penulis": "Y Yandri, N Nadila, T Suhartati, H Satria, S Hadi",
+      "venue": "Analit: Analytical and Environmental Chemistry, 143-154 , 2020",
+      "sitasiScholar": 12,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:O3NaXMp0MMsC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "AC G3 SEBAGAI GREEN INHIBITOR PEMBENTUKAN KERAK KALSIUM KARBONAT",
+      "tahun": 2019,
+      "penulis": "E Setiososari, AA Kiswandono, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:5awf1xo2G04C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Aplikasi LS sebagai Green Inhibitor Pembentukan Kerak Kalsium Karbonat (CaCO3): Application of LS as Green Inhibitor of Scale Formation of Calcium Carbonate (CaCO3)",
+      "tahun": 2019,
+      "penulis": "E Setiososari, AA Kiswandono, H Satria",
+      "venue": "Talenta Conference Series: Science and Technology (ST) 2 (2) , 2019",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:MXK_kJrjxJIC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Bio-Hidrolisis Substrat Bagas Terpretreatment Ionic Liquid [C2mim][OAc] oleh Isolat Lokal Actinomycetes",
+      "tahun": 2019,
+      "penulis": "H Satria, Y Yandri, N Nurhasanah, D Herasari",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:Y5dfb0dijaUC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Catalytic performance of CaO/SiO2 prepared from local limestone industry and rice husk silica",
+      "tahun": 2019,
+      "penulis": "KD Pandiangan, W Simanjuntak, H Satria, I Ilim, N Jamarun",
+      "venue": "The Journal of Pure and Applied Chemistry Research 8 (2), 170-178 , 2019",
+      "sitasiScholar": 10,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:ufrVoPGSRksC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Extracellular Hydrolysis Enzyme Activity of Some Indigenous Actinomycetes on Pretreated Bagasse using Choline Acetate Ionic Liquid",
+      "tahun": 2019,
+      "penulis": "H Satria, Y Yandri, N Nurhasanah, S Dwi Yuwono, D Herasari",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:1qzjygNMrQYC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Hydrolysis Enzyme Activity of Some Indigenous Actinomycetes in Presence of Choline Acetate Ionic Liquid",
+      "tahun": 2019,
+      "penulis": "H Satria, N Nurhasanah, Y Yandri, S Dwi Yuwono, D Herasari",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:WqliGbK-hY8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "ISOLASI, PEMURNIAN, DAN KARAKTERISASI ENZIM α-AMILASE DARI Bacillus subtilis ITBCCB148",
+      "tahun": 2019,
+      "jenisPDDikti": "Lain-lain",
+      "indeks": [
+        "PDDikti"
+      ],
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Influence of gambier extract modification as inhibitor of calcium sulfate scale formation",
+      "tahun": 2019,
+      "penulis": "HR Utari, H Satria",
+      "venue": "Desalination and Water Treatment 169, 22-28 , 2019",
+      "sitasiScholar": 19,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:3fE2CSJIrl8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Isolasi Eksopolisakarida dari Bakteri Asam Laktat Hasil Fermentasi Kefir Kolostrum",
+      "tahun": 2019,
+      "penulis": "N Nurhasanah, TF Intan, HS Heri Satria, S Suripto",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:vDijr-p_gm4C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "KARAKTERISTIK MOLEKULAR MIKROBA INDIGEN ISOLAT TERPILIH DARI LIMBAH PADAT SINGKONG",
+      "tahun": 2019,
+      "penulis": "N Nurhasanah, HS Heri Satria, L Aspita, K Widya",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:0KyAp5RtaNEC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Liquid smoke of coconut shell as green inhibitor of calcium carbonate scale formation",
+      "tahun": 2019,
+      "penulis": "E Setiososari, AA Kiswandono, H Satria",
+      "venue": "Desalination and Water Treatment 169, 29-37 , 2019",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:kNdYIx-mwKoC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "OLIGOMERISASI 2-VINILPIRIDIN DAN UJI AKTIVITASNYA SEBAGAI INHIBITOR KOROSI BAJA LUNAK DALAM BRINE SOLUTION YANG JENUH GAS CO2",
+      "tahun": 2019,
+      "penulis": "I Ilim, S Bahri, R Marjunus, H Satria, W Simanjuntak",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:V3AGJWp-ZtQC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Pengembangan Prototype Aplikasi Pendukung Penerbitan KJP",
+      "tahun": 2019,
+      "penulis": "H Satria, D Sutrisno, K Falgenti",
+      "venue": "JUITA: Jurnal Informatika, 11-18 , 2019",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:tS2w5q8j5-wC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Use of LS As Natural Green Inhibitor of Calsium Carbonate Scale Formation",
+      "tahun": 2019,
+      "penulis": "E Setiososari, P Santoso, AA Kiswandono, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:geHnlv5EZngC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Utilization of Native Extracellular Cellulase from Cultivated Indigenous Actinomycetes Act-4 on Ionic Liquid Pretreated Bagasse in Simultaneous Saccharification and …",
+      "tahun": 2019,
+      "penulis": "H Satria, Y Yandri, N Nurhasanah, A Laila, S Dwi Yuwono",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:eq2jaN3J8jMC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "APLIKASI LS SEBAGAI GREEN INHIBITOR PEMBENTUKAN KERAK KALSIUM KARBONAT (CaCO3)",
+      "tahun": 2018,
+      "penulis": "AA Kiswandono, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:B3FOqHPlNUQC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Dimethyl sulfoxide enhances both cellulose dissolution ability and biocompatibility of a carboxylate-type liquid zwitterion",
+      "tahun": 2018,
+      "jenisPDDikti": "Lain-lain",
+      "indeks": [
+        "PDDikti"
+      ],
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Dimethyl sulfoxide enhances both the cellulose dissolution ability and biocompatibility of a carboxylate-type liquid zwitterion",
+      "tahun": 2018,
+      "venue": "NEW JOURNAL OF CHEMISTRY",
+      "penulis": "Satria, H; Kuroda, K; Tsuge, Y; Ninomiya, K; Takahashi, K",
+      "urutanPenulis": "1 of 5",
+      "sitasiWoS": 17,
+      "doi": "10.1039/c8nj01912f",
+      "indeks": [
+        "Web of Science",
+        "WOS.SCI",
+        "Google Scholar"
+      ],
+      "link": "https://www.webofscience.com/wos/woscc/full-record/WOS:000445827700090",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=wos",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 36
+    },
+    {
+      "judul": "EFEK KEROSIN PADA KEMAMPUAN BEBERAPA SENYAWA KOMERSIAL YANG MENGANDUNG NITROGEN SEBAGAI INHIBITOR KOROSI DALAM LARUTAN MEDIUM KOROSIF YANG JENUH DENGAN CO2 DAN MENGANDUNG KEROSIN",
+      "tahun": 2018,
+      "penulis": "I Ilim, W Simanjuntak, D Herasari, M Rilyanti, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:_B80troHkn4C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Effect of Mutation on the Dynamics of Lid lipMNK by Molecular Dynamics Approach",
+      "tahun": 2018,
+      "penulis": "D Herasari, I Ilim, KD Pandiangan, L Aspita, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:8AbLer7MMksC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Imidazoline-Containing Surfactants as Corrosion Inhibitors of Mild steel in CO2 Environment",
+      "tahun": 2018,
+      "penulis": "I Ilim, M Rilyanti, D Herasari, H Satria, W Simanjuntak",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:sSrBHYA8nusC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Impact Ionic Liquid [Emim] OAc to Cellulose Hydrolysis Activities of Indigenous Microorganisms (IMO’s) on Cassava Peels Substrate",
+      "tahun": 2018,
+      "penulis": "H Satria, N Nurhasanah, A Laila, D Herasari",
+      "venue": "5 th International Symposium on Innovative Bioproduction Indonesia, 66 , 2018",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:t6usbXjVLHcC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "KOMPOSISI EKSTRAK GAMBIR (Uncaria gambier Roxb) SEBAGAI INHIBITOR KERAK KALSIUM KARBONAT",
+      "tahun": 2018,
+      "penulis": "H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:tkaPQYYpVKoC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "LIQUID FUEL PRODUCTION BY CO-PYROLYSIS OF SUGARCANE BAGASSE AND RUBBER SEED OIL USING ZEOLITE-A SYNTHESIZED FROM RICE HUSK SILICA AND ALUMINUM METAL AS CATALYST",
+      "tahun": 2018,
+      "penulis": "KD Pandiangan, W Simanjuntak, Z Sembiring, R Situmeang, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:5ugPr518TE4C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "MONOMER 2-VINILPIRIDIN DAN TURUNANNYA SEBAGAI INHIBITOR KOROSI BAJA LUNAK DALAM LARUTAN GARAM YANG JENUH GAS CO2",
+      "tahun": 2018,
+      "penulis": "I Ilim, H Satria, W Simanjuntak, M Rilyanti, KD Pandiangan",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:SdhP9T11ey4C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "PEMANFAATAN INHIBITOR ALAMI DALAM MENGHAMBAT PEMBENTUKAN KERAK KALSIUM SULFAT (CaSO4)",
+      "tahun": 2018,
+      "penulis": "T Tugiyono, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:BrmTIyaxlBUC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "PRETREATMENT LIMBAH PADAT SINGKONG (LPS) MENGGUNAKAN IONIC LIQUID [EMIM] OAC DAN ISOLAT-ISOLAT BAKTERI INDIGENOUS UNTUK PENINGKATAN HASIL INTERMEDIATE PRODUK",
+      "tahun": 2018,
+      "penulis": "H Satria, N Nurhasanah, A Laila, D Herasari, M Rilyanti",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:bnK-pcrLprsC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "PROSIDING: Impact Ionic Liquid [Emim] OAc to Cellulose Hydrolysis Activities of Indigenous Microorganisms (IMO’s) on Cassava Peels Substrate",
+      "tahun": 2018,
+      "penulis": "H Satria, N Nurhasanah, A Laila, D Herasari",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:eMMeJKvmdy0C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "SINTESIS CaO/SiO 2 DENGAN METODE SOL GEL DAN APLIKASINYA SEBAGAI KATALIS REAKSI TRANSESTERIFIKASI MINYAK KELAPA",
+      "tahun": 2018,
+      "penulis": "KD Pandiangan, W Simanjuntak, H Satria, I Ilim, A Laila",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:wbdj-CoPYUoC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Screening of Amylolytics and Cellulolytic Microbial with Potential use in Bioconversion of Cassava Solid Waste into Intermediate Fermentation Product",
+      "tahun": 2018,
+      "penulis": "H Satria, N Nurhasanah, A Laila, D Herasari",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:HE397vMXCloC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Studi Stabilitas dan Aktivitas Lipase Isolat Manuk (lipMNK) dalam Pelarut Asetonitril dengan Pendekatan Simulasi Dinamika Molekul",
+      "tahun": 2018,
+      "penulis": "D Herasari, I Ilim, KD Pandiangan, M Rilyanti, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:Mojj43d5GZwC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "2-Vinilpiridin dan Turunannya sebagai Inhibitor Korosi Baja Lunak dalam Larutan Garam Mengandung CO2",
+      "tahun": 2017,
+      "penulis": "I Ilim, H Satria",
+      "venue": "Unpublished , 2017",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:LPZeul_q3PIC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Design of Wall-Destructive but Membrane-Compatible Solvents",
+      "tahun": 2017,
+      "venue": "JOURNAL OF THE AMERICAN CHEMICAL SOCIETY",
+      "penulis": "Kuroda, K; Satria, H; Miyamura, K; Tsuge, Y; Ninomiya, K; Takahashi, K",
+      "urutanPenulis": "2 of 6",
+      "sitasiWoS": 26,
+      "doi": "10.1021/jacs.7b08914",
+      "indeks": [
+        "Web of Science",
+        "WOS.SCI",
+        "Google Scholar"
+      ],
+      "link": "https://www.webofscience.com/wos/woscc/full-record/WOS:000415785900008",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=wos",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 99
+    },
+    {
+      "judul": "Efficient Hydrolysis of Lignocellulose by Acidic Ionic Liquids under Low-Toxic Condition to Microorganisms",
+      "tahun": 2017,
+      "venue": "CATALYSTS",
+      "penulis": "Kuroda, K; Inoue, K; Miyamura, K; Satria, H; Takada, K; Ninomiya, K; Takahashi, K",
+      "urutanPenulis": "4 of 7",
+      "sitasiWoS": 3,
+      "doi": "10.3390/catal7040108",
+      "indeks": [
+        "Web of Science",
+        "WOS.SCI",
+        "Google Scholar"
+      ],
+      "link": "https://www.webofscience.com/wos/woscc/full-record/WOS:000403448000013",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=wos",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 6
+    },
+    {
+      "judul": "Efficient Hydrolysis of Polysaccharides in Bagasse by in Situ Synthesis of an Acidic Ionic Liquid after Pretreatment",
+      "tahun": 2017,
+      "venue": "ACS SUSTAINABLE CHEMISTRY & ENGINEERING",
+      "penulis": "Satria, H; Kuroda, K; Endo, T; Takada, K; Ninomiya, K; Takahashi, K",
+      "urutanPenulis": "1 of 6",
+      "sitasiWoS": 18,
+      "doi": "10.1021/acssuschemeng.6b02055",
+      "indeks": [
+        "Web of Science",
+        "WOS.SCI",
+        "Google Scholar"
+      ],
+      "link": "https://www.webofscience.com/wos/woscc/full-record/WOS:000391246000079",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=wos",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 28
+    },
+    {
+      "judul": "Efficient recovery of ionic liquid by electrodialysis in the acid hydrolysis process",
+      "tahun": 2017,
+      "venue": "SEPARATION SCIENCE AND TECHNOLOGY",
+      "penulis": "Endo, T; Tatsumi, M; Kuroda, K; Satria, H; Shimada, Y; Ninomiya, K; Takahashi, K",
+      "urutanPenulis": "4 of 7",
+      "sitasiWoS": 4,
+      "doi": "10.1080/01496395.2017.1281957",
+      "indeks": [
+        "Web of Science",
+        "WOS.SCI",
+        "Google Scholar"
+      ],
+      "link": "https://www.webofscience.com/wos/woscc/full-record/WOS:000399715600009",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=wos",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en"
+      ],
+      "sitasiScholar": 12
+    },
+    {
+      "judul": "Identifikasi Plastik Kemasan Makanan di Dusun II Way Tuba Kabupaten Way Kanan",
+      "tahun": 2017,
+      "penulis": "I Ilim, H Satria, S Supriyanto, Z Sembiring",
+      "venue": "Unpublished , 2017",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:eJXPG6dFmWUC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "LAJU PERTUMBUHAN SPESIFIK ETANOLGENIC ESCERICHIA COLI REKOMBINAN (E. coli KO11) PADA MEDIA YANG MENGANDUNG KOMPONEN PENYUSUN IONIK LIKUID [C1im C4SH] HSO4",
+      "tahun": 2017,
+      "penulis": "H Satria, N Nurhasanah, A Laila, D Herasari, I Ilim",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:XiVPGOgt02cC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "OPTIMASI BIOKONVERSI BIOMASS SEBAGAI BAHAN BAKU BIOETHANOL MELALUI ONE-POT PROSES",
+      "tahun": 2017,
+      "penulis": "H Satria, KD Pandiangan",
+      "venue": "unpublised , 2017",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:WA5NYHcadZ8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "PENERAPAN PENGGUNAAN PENGAWET ALAMI KEPADA PENGRAJIN MAKANAN DI DUSUN PEMATANG KASIH KABUPATEN WAY KANAN",
+      "tahun": 2017,
+      "penulis": "KD Pandiangan, I Ilim, H Satria",
+      "venue": "Unpublish , 2017",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:D_sINldO8mEC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Efficient one-pot conversion of biomass to ethanol in liquid zwitterion/DMSO mixtures",
+      "tahun": 2016,
+      "penulis": "H Satria, K Kuroda, K Miyamura, K Ninomiya, K Takahashi",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&cstart=100&pagesize=100&citation_for_view=qjrGe6oAAAAJ:mvPsJ3kp5DgC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Hydrolysis of Cellulose Using an Acidic and Hydrophobic Ionic Liquid and Subsequent Separation of Glucose Aqueous Solution from the Ionic Liquid and 5-(Hydroxymethyl)furfural",
+      "tahun": 2016,
+      "venue": "ACS SUSTAINABLE CHEMISTRY & ENGINEERING",
+      "penulis": "Kuroda, K; Miyamura, K; Satria, H; Takada, K; Ninomiya, K; Takahashi, K",
+      "urutanPenulis": "3 of 6",
+      "sitasiWoS": 24,
+      "doi": "10.1021/acssuschemeng.6b00420",
+      "indeks": [
+        "Web of Science",
+        "WOS.SCI",
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://www.webofscience.com/wos/woscc/full-record/WOS:000377425900049",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=wos",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "sitasiScholar": 47,
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "POSTER: Efficient hydrolysis of polysaccharides in bagasse by in situ synthesis of an acidic ionic liquid",
+      "tahun": 2016,
+      "penulis": "H Satria, K Kuroda, K Ninomiya, K Takahashi",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&cstart=100&pagesize=100&citation_for_view=qjrGe6oAAAAJ:5Ul4iDaHHb8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Poster: Carboxylate type zwitterion with DMSO co-solvent for one-pot ethanol fermentation from plant biomass",
+      "tahun": 2016,
+      "penulis": "H Satria, K Kuroda, K Miyamura, K Ninomiya, K Takahashi",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&cstart=100&pagesize=100&citation_for_view=qjrGe6oAAAAJ:kRWSkSYxWN8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "PRODUCTION OF REDUCING SUGAR FROM CASSAVA SOLID WASTE BY SIMULTANEOUS ULTRASONICATION AND ACID HYDROLYSIS",
+      "tahun": 2014,
+      "venue": "INDONESIAN JOURNAL OF CHEMISTRY",
+      "penulis": "Simanjuntak, W; Satria, H; Utami, N",
+      "urutanPenulis": "2 of 3",
+      "sitasiWoS": 1,
+      "doi": null,
+      "indeks": [
+        "Web of Science",
+        "WOS.ESCI",
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://www.webofscience.com/wos/woscc/full-record/WOS:000420627200004",
+      "source": "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=wos",
+      "alsoListedIn": [
+        "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "sitasiScholar": 10,
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Fermentasi Hidrolisat Onggok Dengan Menggunakan Mikroba Endofitik",
+      "tahun": 2013,
+      "penulis": "M Amin, N Nutami, H Satria, W Simanjuntak",
+      "venue": "Prosiding SEMIRATA 2013 1 (1) , 2013",
+      "sitasiScholar": 1,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:u5HHmVD_uO8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Degradasi Lignin Oleh Isolat Lokal Actinomycetes Pada Substrat Limbah Jerami Padi",
+      "tahun": 2012,
+      "penulis": "H Satria, N Nurhasanah",
+      "venue": "Jurnal Sains MIPA Universitas Lampung 8 (3) , 2012",
+      "sitasiScholar": 10,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:9yKSN-GCB0IC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Metode skrining untuk memperoleh klon positif pada kloning shotgun termozim xilanase dari Streptomyces costaricanus 45I-3",
+      "tahun": 2012,
+      "penulis": "H Satria, A Meryandini, E Pratiwi",
+      "venue": "Jurnal Sains MIPA Universitas Lampung 7 (3) , 2012",
+      "sitasiScholar": 1,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:d1gkVwhDpl0C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Hybridization of nannochloropsis sp biomass-silica through sol-gel process to adsorb Cd (II) ion in aqueous solutions",
+      "tahun": 2011,
+      "penulis": "H Satria",
+      "venue": "Eur J Sci Res 51 (4), 467-476 , 2011",
+      "sitasiScholar": 39,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:UeHWp8X0CEIC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Hybridization of nannochloropsis sp biomass-silica through sol-gel process to adsorb cd(II) ion in a",
+      "tahun": 2011,
+      "jenisPDDikti": "Lain-lain",
+      "indeks": [
+        "PDDikti"
+      ],
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Kinetika Fermentasi Produksi Selulase Dari Isolat Actinomycetes AcP-7 Pada Media Padat Jerami Padi",
+      "tahun": 2011,
+      "penulis": "H Satria, D Herasari, SD Yuwono",
+      "venue": "Jurnal Kimia Kemasan 33 (2), 152-159 , 2011",
+      "sitasiScholar": 13,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:qjMakFHDy7sC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Isolation and screening of lignocellulolytic actinomycetes from rice straw waste",
+      "tahun": 2010,
+      "penulis": "H Satria",
+      "venue": "The ASEAN-korea symposium & Workshop on Biorefinery technology, jakarta, 195e199 , 2010",
+      "sitasiScholar": 2,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:W7OEmFMy1HYC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Pengolahan Limbah Kulit Pisang Menjadi Pektin Dengan Metode Ekstraksi",
+      "tahun": 2009,
+      "penulis": "H Berry Satria, Y Ahda",
+      "venue": "Jurusan Teknik Kimia, Fak. Teknik, Universitas Diponegoro Semarang , 2009",
+      "sitasiScholar": 5,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&pagesize=100&citation_for_view=qjrGe6oAAAAJ:HDshCWvjkbEC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Antituberculosis Activity of Two New Naturally Dimers Constituent from Indonesian Sesbania Grandiflora Plant",
+      "tahun": null,
+      "penulis": "N Noviany, H Osman, S Mohamad, H Satria, B Buhani, S Hadi",
+      "venue": "Available at SSRN 4257531 , 0",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&cstart=100&pagesize=100&citation_for_view=qjrGe6oAAAAJ:NhqRSupF_l8C",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "CHARACTERIZATION OF SELECTED PROTEOLYTIC BACTERIA FROM DOMESTIC WASTE",
+      "tahun": null,
+      "penulis": "N Nurhasanah, HS Heri Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&cstart=100&pagesize=100&citation_for_view=qjrGe6oAAAAJ:zLWjf1WUPmwC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "HIGH-PERFORMANCE CaO/SiO2 COMPOSITE PREPARED FROM LIMESTONE AND PUMICE SILICA AS CATALYST FOR RUBBER SEED OILÂ …",
+      "tahun": null,
+      "jenisPDDikti": "Lain-lain",
+      "indeks": [
+        "PDDikti"
+      ],
+      "source": "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+      "alsoListedIn": []
+    },
+    {
+      "judul": "Hydrogen Bond on Conformational Change During the Movement of Lid lipMNK",
+      "tahun": null,
+      "penulis": "D Herasari, M Mulyono, KD Pandiangan, M Rilyanti, H Satria",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&cstart=100&pagesize=100&citation_for_view=qjrGe6oAAAAJ:35r97b3x0nAC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "Kloning Gen Xilanase Termozim Dari Streptomyces costaricanus 45I-3",
+      "tahun": null,
+      "penulis": "H Satria",
+      "venue": "IPB (Bogor Agricultural University) , 0",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar",
+        "PDDikti"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&cstart=100&pagesize=100&citation_for_view=qjrGe6oAAAAJ:u-x6o8ySG0sC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": [
+        "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w=="
+      ],
+      "jenisPDDikti": "Lain-lain"
+    },
+    {
+      "judul": "PENINGKATAN KESTABILAN ENZIM SELULASE DARI Aspergillus fumigatus DENGAN PENAMBAHAN SORBITOL",
+      "tahun": null,
+      "penulis": "Y Yandri, T Suhartati, H Satria, S Hadi",
+      "venue": "",
+      "sitasiScholar": 0,
+      "indeks": [
+        "Google Scholar"
+      ],
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qjrGe6oAAAAJ&cstart=100&pagesize=100&citation_for_view=qjrGe6oAAAAJ:4OULZ7Gr8RgC",
+      "source": "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+      "alsoListedIn": []
+    }
+  ],
+  "publicationsNotes": {
+    "excludedAdministrativeEntries": {
+      "googleScholar": 33,
+      "pddiktiKarya": 32,
+      "alasan": "Entri berupa dokumen \"Peer Review\"/\"Similarity Check\" atau potongan teks (mis. \"Imelda Fajriati, Mudasir Mudasir, Endang Tri Wahyuni\", \"Nurhasanah. 2010\", \"Seminar Nasional Kimia 2019\", \"ACS Sustainable Chem\") bukan judul publikasi, jadi tidak dimasukkan."
+    },
+    "dedup": "Digabung berdasarkan judul yang dinormalisasi (huruf kecil, tanpa tanda baca/spasi). Judul diambil dari sumber pertama (urutan: SINTA Scopus, SINTA WoS, SINTA Garuda, Google Scholar, PDDikti); sumber lain dicatat di alsoListedIn.",
+    "encoding": "Entitas HTML dan mojibake (mis. \"Î±\" menjadi \"α\") pada data PDDikti/SINTA didekode; teks lain tidak diubah.",
+    "perbedaanAntarSumber": "Kuartil dan sitasi bisa berbeda antar halaman: \"Study of water pollution parameters...\" tercatat Q1/17 sitasi di profil SINTA tetapi Q2/14 sitasi di halaman staf FMIPA. Nilai yang disimpan berasal dari SINTA tab Scopus.",
+    "sintaLimit": "SINTA tanpa login hanya menampilkan 10 entri terbaru per tab (Scopus 10 dari 27, Garuda 10, Google Scholar 10, Researches 10, Services 10)."
+  },
+  "activities": [
+    {
+      "judul": "FMIPA Unila Persiapkan Updating Visitasi ISO 21001:2018 Menuju ISO 21001:2025",
+      "tanggalTerbit": "2026-10-06",
+      "tanggalKegiatan": "2026-10-05",
+      "ringkasan": "Dekan membuka persiapan pelatihan updating visitasi ISO 21001:2018 menuju ISO 21001:2025 (5–6 Oktober 2026) yang dilanjutkan audit internal.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/fmipa-unila-persiapkan-updating-visitasi-iso-210012018-menuju-iso-210012025"
+    },
+    {
+      "judul": "Dekan FMIPA Unila Menghadiri Kegiatan Rapat Kerja MIPAnet 2026",
+      "tanggalTerbit": "2026-09-28",
+      "tanggalKegiatan": "2026-09-27",
+      "ringkasan": "Dekan menghadiri Rapat Kerja MIPAnet 2026 di The Grand Santhi Hotel, Denpasar (27–29 September 2026) untuk memperkuat jejaring fakultas MIPA se-Indonesia.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/dekan-fmipa-unila-menghadiri-kegiatan-rapat-kerja-mipanet-2026"
+    },
+    {
+      "judul": "Yudisium FMIPA ke-48 Periode I TA 2026/2027, Sejumlah Mahasiswa Raih Predikat Wisudawan Terbaik",
+      "tanggalTerbit": "2026-09-16",
+      "tanggalKegiatan": "2026-09-16",
+      "ringkasan": "Dekan FMIPA menyampaikan pidato dan motivasi kepada calon wisudawan pada Yudisium FMIPA ke-48.",
+      "namaDisebut": false,
+      "source": "https://fmipa.unila.ac.id/berita/yudisium-fmipa-ke-48-periode-i-ta-20262027-sejumlah-mahasiswa-raih-predikat-wisudawan-terbaik",
+      "catatan": "Berita menyebut \"Dekan FMIPA\" tanpa nama; dicantumkan karena terbit saat beliau menjabat dekan."
+    },
+    {
+      "judul": "Rencana Kerja Sama FMIPA Universitas Lampung dengan Emer Islamic Boarding School dan Penandatanganan MoA",
+      "tanggalTerbit": "2026-08-20",
+      "tanggalKegiatan": "2026-08-20",
+      "ringkasan": "Dekan memimpin pembahasan rencana kerja sama dan penandatanganan MoA antara FMIPA Unila dan Emer Islamic Boarding School di Gedung Dekanat FMIPA.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/rencana-kerja-sama-fmipa-universitas-lampung-dengan-emer-islamic-boarding-school-dan-penandatanganan-moa"
+    },
+    {
+      "judul": "Rapat Luar Biasa Senat FMIPA Unila dalam Rangka Yudisium ke-46 Periode VIII Tahun Akademik 2025/2026",
+      "tanggalTerbit": "2026-08-19",
+      "tanggalKegiatan": null,
+      "ringkasan": "Dekan FMIPA menyampaikan pidato pada Rapat Luar Biasa Senat dalam rangka Yudisium ke-46.",
+      "namaDisebut": false,
+      "source": "https://fmipa.unila.ac.id/berita/rapat-luar-biasa-senat-fmipa-unila-dalam-rangka-yudisium-ke-46-periode-viii-tahun-akademik-20252026",
+      "catatan": "Berita menyebut \"Dekan FMIPA\" tanpa nama; dicantumkan karena terbit saat beliau menjabat dekan."
+    },
+    {
+      "judul": "PKKMB FMIPA HARI KEDUA: Perkenalan Jurusan, Berakhir 11.30 WIB dan Ditutup Lewat Pesan Video Rektor",
+      "tanggalTerbit": "2026-08-14",
+      "tanggalKegiatan": "2026-08-14",
+      "ringkasan": "Dekan FMIPA dan jajaran wakil dekan mendampingi hari kedua PKKMB FMIPA.",
+      "namaDisebut": false,
+      "source": "https://fmipa.unila.ac.id/berita/pkkmb-fmipa-hari-kedua-perkenalan-jurusan-berakhir-1130-wib-dan-ditutup-lewat-pesan-video-rektor",
+      "catatan": "Berita menyebut \"Dekan FMIPA\" tanpa nama; dicantumkan karena terbit saat beliau menjabat dekan."
+    },
+    {
+      "judul": "Semarak PKKMBF MIPA 2026, FMIPA Universitas Lampung Sambut Mahasiswa Baru dengan Penuh Antusias",
+      "tanggalTerbit": "2026-08-13",
+      "tanggalKegiatan": "2026-08-13",
+      "ringkasan": "Dekan membuka PKKMBF MIPA 2026 dengan pemukulan gong untuk menyambut mahasiswa baru.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/semarak-pkkmbf-mipa-2026-fmipa-universitas-lampung-sambut-mahasiswa-baru-dengan-penuh-antusias"
+    },
+    {
+      "judul": "Yudisium FMIPA ke-45 Periode VII Tahun Akademik 2025/2026: FMIPA Universitas Lampung Kukuhkan Lulusan Berprestasi dan Berintegritas",
+      "tanggalTerbit": "2026-07-15",
+      "tanggalKegiatan": "2026-07-15",
+      "ringkasan": "Dekan FMIPA memberi sambutan dan motivasi kepada lulusan pada Yudisium FMIPA ke-45.",
+      "namaDisebut": false,
+      "source": "https://fmipa.unila.ac.id/berita/yudisium-fmipa-ke-45-periode-vii-tahun-akademik-20252026-fmipa-universitas-lampung-kukuhkan-lulusan-berprestasi-dan-berintegritas",
+      "catatan": "Berita menyebut \"Dekan FMIPA\" tanpa nama; dicantumkan karena terbit saat beliau menjabat dekan."
+    },
+    {
+      "judul": "FMIPA Universitas Lampung Perkuat Jejaring Riset Nuklir Melalui Kolaborasi dengan BRIN dan Tsinghua University",
+      "tanggalTerbit": "2026-07-10",
+      "tanggalKegiatan": "2026-07-09",
+      "ringkasan": "Dekan mewakili FMIPA Unila dalam FGD \"Strengthening the Academic Collaboration and Research Network in Nuclear Technology\" yang diadakan ORTN BRIN bersama INET Tsinghua University di Jakarta.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/fmipa-universitas-lampung-perkuat-jejaring-riset-nuklir-melalui-kolaborasi-dengan-brin-dan-tsinghua-university"
+    },
+    {
+      "judul": "Dr. Annisaa Siti Zulaicha Resmi Meraih Gelar Doktor pada Sidang Promosi Doktor MIPA FMIPA Universitas Lampung",
+      "tanggalTerbit": "2026-07-01",
+      "tanggalKegiatan": "2026-07-01",
+      "ringkasan": "Dekan menjadi Ketua Sidang promosi doktor Dr. Annisaa Siti Zulaicha, M.Si. di Program Studi Doktor MIPA.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/dr-annisaa-siti-zulaicha-resmi-meraih-gelar-doktor-pada-sidang-promosi-doktor-mipa-fmipa-universitas-lampung"
+    },
+    {
+      "judul": "FMIPA Universitas Lampung Gelar Workshop Akademika Bahas Strategi Pencapaian CPL untuk Program Studi Terakreditasi Internasional",
+      "tanggalTerbit": "2026-06-25",
+      "tanggalKegiatan": "2026-06-25",
+      "ringkasan": "Dekan membuka Workshop Akademika FMIPA tentang strategi pengukuran Capaian Pembelajaran Lulusan (CPL) bagi program studi terakreditasi internasional.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/fmipa-universitas-lampung-gelar-workshop-akademika-bahas-strategi-pencapaian-cpl-untuk-program-studi-terakreditasi-internasional",
+      "alsoReportedBy": [
+        "https://radarlampung.disway.id/universitas-lampung/read/726864/fmipa-unila-perkuat-standar-internasional-tekankan-pentingnya-pengukuran-cpl-yang-sistematis"
+      ]
+    },
+    {
+      "judul": "Workshop Pembelajaran Matematika Berbasis Computational Thinking di Unila Tingkatkan Kompetensi Guru Matematika SMA se-Lampung",
+      "tanggalTerbit": "2026-06-19",
+      "tanggalKegiatan": "2026-06-08",
+      "ringkasan": "Dekan membuka Workshop Pembelajaran Matematika (8–9 Juni 2026) bagi 60 guru matematika SMA se-Lampung, hasil sinergi FMIPA UGM, FMIPA Unila, Disdikbud Lampung, dan MGMP Matematika.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/workshop-pembelajaran-matematika-berbasis-computational-thinking-di-unila-tingkatkan-kompetensi-guru-matematika-sma-se-lampung"
+    },
+    {
+      "judul": "Dr. Nurjoko Resmi Raih Gelar Doktor MIPA melalui Penelitian Artificial Intelligence untuk Pemetaan Risiko Stunting di Provinsi Lampung",
+      "tanggalTerbit": "2026-06-09",
+      "tanggalKegiatan": "2026-06-09",
+      "ringkasan": "Dekan menjadi Ketua Sidang promosi doktor Dr. Nurjoko, S.Kom., M.T.I.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/dr-nurjoko-resmi-raih-gelar-doktor-mipa-melalui-penelitian-artificial-intelligence-untuk-pemetaan-risiko-stunting-di-provinsi-lampung"
+    },
+    {
+      "judul": "FMIPA Unila Gelar Sidang Promosi Doktor, Dr. Rico Andrian Pertahankan Disertasi Deep Learning Identifikasi Kupu-Kupu Sumatera",
+      "tanggalTerbit": "2026-06-09",
+      "tanggalKegiatan": "2026-06-09",
+      "ringkasan": "Dekan menjadi Ketua Sidang promosi doktor Dr. Rico Andrian, S.Si., M.Kom.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/fmipa-unila-gelar-sidang-promosi-doktor-dr-rico-andrian-pertahankan-disertasi-deep-learning-identifikasi-kupu-kupu-sumatera"
+    },
+    {
+      "judul": "FMIPA UGM dan FMIPA UNILA Perkuat Kolaborasi Tri Dharma melalui Kuliah Tamu, Seminar Series, dan Pengabdian kepada Masyarakat",
+      "tanggalTerbit": "2026-06-08",
+      "tanggalKegiatan": "2026-06-08",
+      "ringkasan": "Dekan FMIPA Unila dan Dekan FMIPA UGM menandatangani Implementation of Arrangement pelaksanaan Tri Dharma (kuliah tamu, seminar series, pengabdian).",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/fmipa-ugm-dan-fmipa-unila-perkuat-kolaborasi-tri-dharma-melalui-kuliah-tamu-seminar-series-dan-pengabdian-kepada-masyarakat"
+    },
+    {
+      "judul": "SIDANG PROMOSI DOKTOR MIPA 2026 (Dr. dr.Putu Ristyaning Ayu Sangging, M.Kes, Sp.PK, Subsp. H.K(K).)",
+      "tanggalTerbit": "2026-06-04",
+      "tanggalKegiatan": null,
+      "ringkasan": "Dekan menjadi Ketua Sidang promosi doktor Dr. dr. Putu Ristyaning Ayu S., M.Kes., Sp.PK., Subsp. H.K(K).",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/sidang-promosi-doktor-mipa-2026-dr-drputu-ristyaning-ayu-sangging-mkes-sppk-subsp-hkk"
+    },
+    {
+      "judul": "SIDANG PROMOSI DOKTOR MIPA 2026 (Dr. dr. Leni Ervina, M.Kes., Sp.A., Subsp. Neo(K)",
+      "tanggalTerbit": "2026-06-03",
+      "tanggalKegiatan": null,
+      "ringkasan": "Dekan memimpin sidang promosi doktor Dr. dr. Leni Ervina, M.Kes., Sp.A., Subsp. Neo(K).",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/sidang-promosi-doktor-mipa-2026"
+    },
+    {
+      "judul": "Dorong Jurnal Bereputasi Internasional, FMIPA Unila Adakan Workshop Pengelolaan Jurnal Terindeks Scopus",
+      "tanggalTerbit": "2026-05-21",
+      "tanggalKegiatan": "2026-05-21",
+      "ringkasan": "Dekan membuka Workshop Pengelolaan Jurnal Menuju Terindeks Scopus bagi pengelola jurnal di lingkungan FMIPA.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/dorong-jurnal-bereputasi-internasional-fmipa-unila-adakan-workshop-pengelolaan-jurnal-terindeks-scopus"
+    },
+    {
+      "judul": "YUDISIUM FMIPA UNILA KE 43 PERIODE V T.A 2025/2026",
+      "tanggalTerbit": "2026-04-23",
+      "tanggalKegiatan": "2026-04-22",
+      "ringkasan": "Dekan FMIPA bersama pimpinan dan senat menyampaikan belasungkawa atas wafatnya seorang mahasiswa pada Yudisium ke-43.",
+      "namaDisebut": false,
+      "source": "https://fmipa.unila.ac.id/berita/yudisium-fmipa-unila-ke-43-periode-v-ta-20252026-6",
+      "catatan": "Berita menyebut \"Dekan FMIPA\" tanpa nama; dicantumkan karena terbit saat beliau menjabat dekan."
+    },
+    {
+      "judul": "Kunjungan Senat Sains Dan teknologi ITERA",
+      "tanggalTerbit": "2026-04-22",
+      "tanggalKegiatan": "2026-04-22",
+      "ringkasan": "Dekan FMIPA menerima kunjungan kehormatan Senat Sains dan Teknologi ITERA dan memberi sambutan.",
+      "namaDisebut": false,
+      "source": "https://fmipa.unila.ac.id/berita/kunjungan-senat-sains-dan-teknologi-itera",
+      "catatan": "Berita menyebut \"Dekan FMIPA\" tanpa nama; dicantumkan karena terbit saat beliau menjabat dekan."
+    },
+    {
+      "judul": "SIDANG PROMOSI DOKTOR FMIPA 2026",
+      "tanggalTerbit": "2026-03-06",
+      "tanggalKegiatan": null,
+      "ringkasan": "Dekan memimpin sidang promosi doktor Dr. dr. Leni Ervina (isi berita sama dengan unggahan 3 Juni 2026).",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/sidang-promosi-doktor-fmipa-2026"
+    },
+    {
+      "judul": "Menuju Kurikulum Informatif, Jurusan Kimia FMIPA Unila Gelar Lokakarya Berskala Hybrid",
+      "tanggalTerbit": "2025-06-25",
+      "tanggalKegiatan": "2025-06-23",
+      "ringkasan": "Dekan membuka Lokakarya Kurikulum Prodi S1 Kimia dan Magister Kimia dan menekankan kurikulum berbasis OBE yang selaras dengan kebijakan Kampus Berdampak.",
+      "namaDisebut": true,
+      "source": "https://fmipa.unila.ac.id/berita/menuju-kurikulum-informatif-jurusan-kimia-fmipa-unila-gelar-lokakarya-berskala-hybrid"
+    }
+  ],
+  "activitiesBefore2025": [
+    {
+      "judul": "Dr. Eng. Heri Satria Terpilih Menjadi Dekan FMIPA Periode 2024-2028",
+      "tanggalTerbit": "2024-01-10",
+      "ringkasan": "Senat FMIPA memilih Heri Satria sebagai Dekan FMIPA periode 2024–2028 dengan 18 dari 29 suara.",
+      "source": "https://www.unila.ac.id/dr-eng-heri-satria-terpilih-menjadi-dekan-fmipa-periode-2024-2028/",
+      "alsoReportedBy": [
+        "https://www.kupastuntas.co/2024/01/10/dr-eng-heri-satria-terpilih-jadi-dekan-fmipa-unila-periode-2024-2028",
+        "https://lampung.nu.or.id/amp/pendidikan/heri-satria-terpilih-jadi-dekan-fmipa-universitas-lampung-periode-2024-2028-9IePb"
+      ]
+    },
+    {
+      "judul": "FMIPA Unila Luluskan Dua Doktor Baru",
+      "tanggalTerbit": "2024-01-22",
+      "ringkasan": "Heri Satria selaku Dekan FMIPA mendampingi rektor membuka ujian doktor Erliyan Redi Susanto dan Heni Sulistiani.",
+      "source": "https://portallnews.id/pendidikan/fmipa-unila-luluskan-dua-doktor-baru/"
+    },
+    {
+      "judul": "Rektor Unila Lantik Dekan FMIPA dan Para Wakil Dekan FP Unila",
+      "tanggalTerbit": "2024-03-13",
+      "ringkasan": "Rektor Unila Prof. Lusmeilia Afriani melantik Dr. Eng. Heri Satria, S.Si., M.Si. sebagai Dekan FMIPA Unila.",
+      "source": "https://www.unila.ac.id/rektor-unila-lantik-dekan-fmipa-dan-para-wakil-dekan-fp-unila/"
+    }
+  ],
+  "gaps": [
+    "scopusId: SINTA dan halaman FMIPA tidak menampilkan Scopus Author ID; tidak ditemukan di sumber yang diakses.",
+    "email: tidak ada alamat email yang dipublikasikan; Google Scholar hanya mencantumkan domain terverifikasi fmipa.unila.ac.id.",
+    "Publikasi SINTA: tanpa login hanya 10 entri terbaru per tab (Scopus 10 dari 27). Daftar Scopus lengkap belum didapat; daftar Google Scholar lengkap (134 entri profil) diambil langsung dari Scholar.",
+    "PDDikti portofolio paten bernilai null (tidak ada paten tercatat). SINTA IPR dan Books: \"No data available\".",
+    "Kegiatan 2025: daftar berita fmipa.unila.ac.id (118 berita, Juli 2024 s.d. Oktober 2026) hanya memuat 1 berita 2025 yang menyebut nama beliau. Berita 2025 lain dari unila.ac.id/media lokal tidak muncul di pencarian.",
+    "Nomor SK pengangkatan dekan tidak disebut di berita mana pun.",
+    "Dua entri Garuda di SINTA ditandai perluVerifikasi (kemungkinan milik penulis lain bernama Heri Satria).",
+    "Tanggal kegiatan (tanggalKegiatan) null bila berita tidak menyebut tanggal acara secara eksplisit."
+  ],
+  "sources": [
+    "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/karya/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+    "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/paten/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+    "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/penelitian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+    "https://api-pddikti.kemdiktisaintek.go.id/dosen/portofolio/pengabdian/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+    "https://api-pddikti.kemdiktisaintek.go.id/dosen/profile/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+    "https://api-pddikti.kemdiktisaintek.go.id/dosen/study-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+    "https://api-pddikti.kemdiktisaintek.go.id/dosen/teaching-history/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+    "https://api-pddikti.kemdiktisaintek.go.id/pencarian/dosen/heri%20satria",
+    "https://fmipa.unila.ac.id/berita",
+    "https://fmipa.unila.ac.id/berita/dekan-fmipa-unila-menghadiri-kegiatan-rapat-kerja-mipanet-2026",
+    "https://fmipa.unila.ac.id/berita/dorong-jurnal-bereputasi-internasional-fmipa-unila-adakan-workshop-pengelolaan-jurnal-terindeks-scopus",
+    "https://fmipa.unila.ac.id/berita/dr-annisaa-siti-zulaicha-resmi-meraih-gelar-doktor-pada-sidang-promosi-doktor-mipa-fmipa-universitas-lampung",
+    "https://fmipa.unila.ac.id/berita/dr-nurjoko-resmi-raih-gelar-doktor-mipa-melalui-penelitian-artificial-intelligence-untuk-pemetaan-risiko-stunting-di-provinsi-lampung",
+    "https://fmipa.unila.ac.id/berita/fmipa-ugm-dan-fmipa-unila-perkuat-kolaborasi-tri-dharma-melalui-kuliah-tamu-seminar-series-dan-pengabdian-kepada-masyarakat",
+    "https://fmipa.unila.ac.id/berita/fmipa-unila-gelar-sidang-promosi-doktor-dr-rico-andrian-pertahankan-disertasi-deep-learning-identifikasi-kupu-kupu-sumatera",
+    "https://fmipa.unila.ac.id/berita/fmipa-unila-persiapkan-updating-visitasi-iso-210012018-menuju-iso-210012025",
+    "https://fmipa.unila.ac.id/berita/fmipa-universitas-lampung-gelar-workshop-akademika-bahas-strategi-pencapaian-cpl-untuk-program-studi-terakreditasi-internasional",
+    "https://fmipa.unila.ac.id/berita/fmipa-universitas-lampung-perkuat-jejaring-riset-nuklir-melalui-kolaborasi-dengan-brin-dan-tsinghua-university",
+    "https://fmipa.unila.ac.id/berita/kunjungan-senat-sains-dan-teknologi-itera",
+    "https://fmipa.unila.ac.id/berita/menuju-kurikulum-informatif-jurusan-kimia-fmipa-unila-gelar-lokakarya-berskala-hybrid",
+    "https://fmipa.unila.ac.id/berita/pkkmb-fmipa-hari-kedua-perkenalan-jurusan-berakhir-1130-wib-dan-ditutup-lewat-pesan-video-rektor",
+    "https://fmipa.unila.ac.id/berita/rapat-luar-biasa-senat-fmipa-unila-dalam-rangka-yudisium-ke-46-periode-viii-tahun-akademik-20252026",
+    "https://fmipa.unila.ac.id/berita/rencana-kerja-sama-fmipa-universitas-lampung-dengan-emer-islamic-boarding-school-dan-penandatanganan-moa",
+    "https://fmipa.unila.ac.id/berita/semarak-pkkmbf-mipa-2026-fmipa-universitas-lampung-sambut-mahasiswa-baru-dengan-penuh-antusias",
+    "https://fmipa.unila.ac.id/berita/sidang-promosi-doktor-fmipa-2026",
+    "https://fmipa.unila.ac.id/berita/sidang-promosi-doktor-mipa-2026",
+    "https://fmipa.unila.ac.id/berita/sidang-promosi-doktor-mipa-2026-dr-drputu-ristyaning-ayu-sangging-mkes-sppk-subsp-hkk",
+    "https://fmipa.unila.ac.id/berita/workshop-pembelajaran-matematika-berbasis-computational-thinking-di-unila-tingkatkan-kompetensi-guru-matematika-sma-se-lampung",
+    "https://fmipa.unila.ac.id/berita/yudisium-fmipa-ke-45-periode-vii-tahun-akademik-20252026-fmipa-universitas-lampung-kukuhkan-lulusan-berprestasi-dan-berintegritas",
+    "https://fmipa.unila.ac.id/berita/yudisium-fmipa-ke-48-periode-i-ta-20262027-sejumlah-mahasiswa-raih-predikat-wisudawan-terbaik",
+    "https://fmipa.unila.ac.id/berita/yudisium-fmipa-unila-ke-43-periode-v-ta-20252026-6",
+    "https://fmipa.unila.ac.id/pimpinan",
+    "https://fmipa.unila.ac.id/profil-staff/197110012005011002",
+    "https://lampung.nu.or.id/amp/pendidikan/heri-satria-terpilih-jadi-dekan-fmipa-universitas-lampung-periode-2024-2028-9IePb",
+    "https://pddikti.kemdiktisaintek.go.id/detail-dosen/EfOINVlpF1nmoaJ24lxX1F2iqxsBqU8m_YoFx8e0mxVuEG2xbdFcBAMEWfrZbD97O2qP2w==",
+    "https://portallnews.id/pendidikan/fmipa-unila-luluskan-dua-doktor-baru/",
+    "https://radarlampung.disway.id/universitas-lampung/read/726864/fmipa-unila-perkuat-standar-internasional-tekankan-pentingnya-pengukuran-cpl-yang-sistematis",
+    "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en",
+    "https://scholar.google.com/citations?user=qjrGe6oAAAAJ&hl=en&cstart=100&pagesize=100",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=books",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=garuda",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=googlescholar",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=iprs",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=researches",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=scopus",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=services",
+    "https://sinta.kemdiktisaintek.go.id/authors/profile/38605?view=wos",
+    "https://sinta.kemdiktisaintek.go.id/authors?q=heri+satria",
+    "https://www.kupastuntas.co/2024/01/10/dr-eng-heri-satria-terpilih-jadi-dekan-fmipa-unila-periode-2024-2028",
+    "https://www.unila.ac.id/dr-eng-heri-satria-terpilih-menjadi-dekan-fmipa-periode-2024-2028/",
+    "https://www.unila.ac.id/profil-pimpinan-dan-pejabat-2026/",
+    "https://www.unila.ac.id/rektor-unila-lantik-dekan-fmipa-dan-para-wakil-dekan-fp-unila/"
+  ],
+  "meta": {
+    "dikumpulkanTanggal": "2026-10-08",
+    "catatan": "Semua nilai disalin dari sumber; tidak ada data tebakan. Field \"source\" pada tiap entri adalah URL asal. PDDikti_WEB adalah halaman frontend; data diambil dari endpoint API di sources."
+  }
+}

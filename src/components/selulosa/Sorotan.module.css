@@ -1,0 +1,146 @@
+.sorotan {
+  margin-bottom: var(--space-2xl);
+}
+
+.label {
+  margin: 0 0 var(--space-s);
+  font-size: var(--step-0);
+  font-weight: 600;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: minmax(0, 6fr) minmax(0, 3fr) minmax(0, 3fr);
+  gap: var(--space-xs);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.kartu {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  padding: var(--space-m);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+  transition: border-color 0.2s ease;
+}
+
+.kartu:hover {
+  border-color: var(--line-strong);
+}
+
+/* Karya teratas dibalik ke tinta */
+.kartu:first-child {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+.angka {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: var(--step-5);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  font-variant-numeric: lining-nums;
+}
+
+.kartu:first-child .angka {
+  font-size: var(--step-7);
+}
+
+.angka span {
+  font-family: var(--font-sans);
+  font-size: var(--step-0);
+  letter-spacing: 0;
+  color: var(--muted);
+}
+
+.kartu:first-child .angka span,
+.kartu:first-child .venue {
+  color: var(--surface-2);
+}
+
+.judul {
+  margin: auto 0 0;
+  font-family: var(--font-serif);
+  font-size: var(--step-1);
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.kartu:first-child .judul {
+  font-size: var(--step-3);
+}
+
+.judul a {
+  text-decoration: none;
+}
+
+.judul a:hover {
+  text-decoration: underline;
+}
+
+.kartu:first-child :focus-visible {
+  outline-color: var(--paper);
+}
+
+.venue {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 1rem;
+  margin: 0;
+  font-size: var(--step-n1);
+  color: var(--muted);
+}
+
+@media (max-width: 960px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .kartu:first-child {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 560px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Penyesuaian konsep Selulosa */
+.label {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.angka {
+  font-weight: 500;
+  letter-spacing: -0.05em;
+}
+
+.kartu:first-child .angka {
+  color: var(--limau);
+}
+
+.judul {
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+.venue {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+}

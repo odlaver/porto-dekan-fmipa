@@ -1,0 +1,143 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--garis-gelap);
+}
+
+.kolom {
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-m) var(--space-l) 0 0;
+}
+
+.kolom + .kolom {
+  padding-left: var(--space-l);
+  border-left: 1px solid var(--garis-gelap);
+}
+
+.atas {
+  display: flex;
+  justify-content: space-between;
+  color: var(--di-gelap-redup);
+}
+
+.atas span:first-child {
+  color: var(--limau);
+}
+
+.ikon {
+  margin: var(--space-xl) 0 var(--space-l);
+  color: var(--limau);
+  transition: transform 0.8s var(--ease-out);
+}
+
+.kolom:hover .ikon {
+  transform: rotate(-8deg) scale(1.06);
+}
+
+.nama {
+  margin: 0;
+  font-size: var(--step-3);
+  font-weight: 500;
+  line-height: 1.02;
+  letter-spacing: -0.035em;
+}
+
+.deskripsi {
+  margin: var(--space-s) 0 0;
+  color: var(--di-gelap-redup);
+  line-height: 1.5;
+}
+
+.karya {
+  margin-top: auto;
+  padding-top: var(--space-xl);
+}
+
+.karya h4 {
+  margin: 0 0 var(--space-xs);
+  font-weight: 400;
+  color: var(--di-gelap-redup);
+}
+
+.karya ul {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tautan {
+  position: relative;
+  display: grid;
+  gap: 0.3rem;
+  padding: var(--space-s) 1.75rem var(--space-s) 0;
+  border-top: 1px solid var(--garis-gelap);
+  text-decoration: none;
+}
+
+.judul {
+  font-size: 0.95rem;
+  line-height: 1.35;
+  transition: color 0.2s ease;
+}
+
+a.tautan:hover .judul {
+  color: var(--limau);
+}
+
+.meta {
+  display: grid;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: var(--di-gelap-redup);
+}
+
+.panah {
+  position: absolute;
+  top: var(--space-s);
+  right: 0;
+  color: var(--di-gelap-redup);
+  transition:
+    transform 0.3s var(--ease-out),
+    color 0.2s ease;
+}
+
+a.tautan:hover .panah {
+  color: var(--limau);
+  transform: translate(2px, -2px);
+}
+
+.kosong {
+  color: var(--di-gelap-redup);
+}
+
+@media (max-width: 960px) {
+  .grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .kolom,
+  .kolom + .kolom {
+    padding: var(--space-l) 0;
+    border-left: 0;
+  }
+
+  .kolom + .kolom {
+    border-top: 1px solid var(--garis-gelap);
+  }
+
+  .ikon {
+    margin: var(--space-l) 0 var(--space-m);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ikon {
+    transition: none;
+  }
+}

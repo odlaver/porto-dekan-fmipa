@@ -1,0 +1,274 @@
+.kontrol {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 0.75rem;
+  align-items: end;
+}
+
+.cari input,
+.pilih select {
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0 0.9rem;
+  border: 1px solid var(--muted);
+  border-radius: 6px;
+  background: var(--paper);
+}
+
+.cari input::placeholder {
+  color: var(--muted);
+}
+
+.pilih {
+  display: grid;
+  gap: 0.25rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.pilih select {
+  color: var(--ink);
+  font-size: 0.95rem;
+}
+
+.chip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1rem;
+}
+
+.chip button {
+  min-height: 2.75rem;
+  padding: 0 0.95rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.chip button span {
+  margin-left: 0.25rem;
+  font-size: var(--step-n1);
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+}
+
+.chip button[aria-pressed='true'] {
+  border-color: var(--ink);
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.chip button[aria-pressed='true'] span {
+  color: var(--surface-2);
+}
+
+.daftar {
+  margin: var(--space-l) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.daftar li {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr) 7rem;
+  column-gap: var(--space-l);
+  align-items: start;
+  padding-block: 1.4rem;
+  border-top: 1px solid var(--line);
+}
+
+/* Awal kelompok tahun ditandai garis tinta */
+.daftar li[data-awal='true'] {
+  border-top-color: var(--ink);
+}
+
+.kolomTahun {
+  font-family: var(--font-serif);
+  font-size: var(--step-3);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  font-variant-numeric: lining-nums;
+}
+
+.isi {
+  min-width: 0;
+  max-width: 46rem;
+}
+
+.panah {
+  display: inline-block;
+  margin-left: 0.35em;
+  vertical-align: 0.05em;
+  color: var(--muted);
+  transition:
+    transform 0.3s var(--ease-out),
+    color 0.2s ease;
+}
+
+.judul a:hover .panah {
+  color: var(--ink);
+  transform: translate(2px, -2px);
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 1rem;
+  margin: 0 0 0.45rem;
+  font-size: var(--step-n1);
+  color: var(--muted);
+}
+
+.meta span:first-child {
+  font-weight: 600;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.judul {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: var(--step-1);
+  font-weight: 450;
+  line-height: 1.28;
+  text-wrap: pretty;
+}
+
+.judul a {
+  text-decoration: none;
+}
+
+.judul a:hover {
+  text-decoration: underline;
+}
+
+.venue {
+  margin: 0.35rem 0 0;
+  font-style: italic;
+}
+
+.penulis {
+  margin: 0.2rem 0 0;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.penulis strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.sitasi {
+  grid-column: 3;
+  grid-row: 1;
+  margin: 0;
+  text-align: right;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.sitasi strong {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: var(--ink);
+}
+
+.kosong {
+  margin-top: var(--space-l);
+  padding: 2.5rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.kosong p {
+  margin: 0 0 0.75rem;
+}
+
+.kosong button,
+.lagi {
+  min-height: 2.75rem;
+  padding: 0 1.2rem;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+}
+
+.lagi {
+  margin-top: 1.5rem;
+}
+
+.kosong button:hover,
+.lagi:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+@media (max-width: 760px) {
+  .kontrol {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .cari {
+    grid-column: 1 / -1;
+  }
+
+  .daftar li {
+    grid-template-columns: 1fr;
+  }
+
+  .kolomTahun:empty {
+    display: none;
+  }
+
+  .kolomTahun {
+    margin-bottom: var(--space-2xs);
+    font-size: var(--step-2);
+  }
+
+  .sitasi {
+    grid-column: 1;
+    grid-row: auto;
+    text-align: left;
+    margin-top: 0.5rem;
+  }
+
+  .sitasi strong {
+    display: inline;
+    font-size: 1.2rem;
+    margin-right: 0.25rem;
+  }
+}
+
+/* Penyesuaian konsep Selulosa */
+.meta {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.kolomTahun {
+  font-weight: 500;
+  letter-spacing: -0.04em;
+}
+
+.judul {
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+.chip button {
+  border-color: var(--line-strong);
+  font-weight: 500;
+}
+
+.sitasi strong {
+  font-weight: 500;
+  letter-spacing: -0.04em;
+}

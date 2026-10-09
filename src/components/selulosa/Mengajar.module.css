@@ -1,0 +1,225 @@
+.bento {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: var(--space-xs);
+}
+
+.petak {
+  grid-column: span 4;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--space-s);
+  margin: 0;
+  padding: var(--space-m);
+  border-radius: var(--radius-card);
+  border: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.petak p,
+.petak h3 {
+  margin: 0;
+}
+
+.petak h3 {
+  font-size: var(--step-0);
+  font-weight: 600;
+}
+
+.besar {
+  grid-column: span 8;
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+.angka {
+  font-family: var(--font-serif);
+  font-size: var(--step-7);
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  font-variant-numeric: lining-nums;
+}
+
+.angkaKecil {
+  font-family: var(--font-serif);
+  font-size: var(--step-4);
+  line-height: 1;
+  font-variant-numeric: lining-nums;
+}
+
+.kampus {
+  display: grid;
+  gap: var(--space-2xs);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.kampus li {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-s);
+  font-family: var(--font-serif);
+  font-size: var(--step-1);
+}
+
+.kampus li span:last-child {
+  font-family: var(--font-sans);
+  font-size: var(--step-n1);
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.grafik {
+  grid-column: span 8;
+  grid-row: span 2;
+  justify-content: flex-start;
+}
+
+.grafik figcaption {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-s);
+}
+
+.satuan {
+  color: var(--muted);
+  font-size: 0.72rem;
+}
+
+/* Baris: nama dan nilai, batang tipis di bawahnya */
+.batang {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.batang li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: 0.5rem var(--space-s);
+  padding-block: 0.7rem;
+  border-top: 1px solid var(--line);
+}
+
+.batang li:first-child {
+  border-top: 0;
+}
+
+.nama {
+  font-size: var(--step-0);
+  font-weight: 500;
+}
+
+.nilai {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.jalur {
+  grid-column: 1 / -1;
+  height: 4px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  overflow: hidden;
+}
+
+.jalur span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--ink);
+  transition: background-color 0.25s ease;
+}
+
+/* Mata kuliah teratas diberi aksen */
+.batang li:first-child .jalur span {
+  background: var(--limau-tua);
+}
+
+.batang li:hover .jalur span {
+  background: var(--limau-tua);
+}
+
+/* Dua kartu kecil bertumpuk di sisi grafik */
+.samping {
+  grid-column: span 4;
+}
+
+.lagi {
+  min-height: 2.75rem;
+  margin-top: var(--space-m);
+  padding: 0 1.2rem;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+}
+
+.lagi:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.lengkap {
+  margin-top: var(--space-l);
+}
+
+@media (max-width: 960px) {
+  .petak,
+  .samping {
+    grid-column: span 6;
+  }
+
+  .grafik {
+    grid-column: 1 / -1;
+    grid-row: auto;
+  }
+
+  .besar {
+    grid-column: span 7;
+  }
+
+  .semester {
+    grid-column: span 5;
+  }
+}
+
+@media (max-width: 600px) {
+  .petak,
+  .samping,
+  .besar,
+  .semester {
+    grid-column: 1 / -1;
+  }
+}
+
+/* Penyesuaian konsep Selulosa */
+.besar .angka {
+  color: var(--limau);
+}
+
+.angka,
+.angkaKecil {
+  font-weight: 500;
+  letter-spacing: -0.05em;
+}
+
+.petak h3 {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.besar h3 {
+  color: var(--di-gelap-redup);
+}

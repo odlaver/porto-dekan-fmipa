@@ -1,0 +1,278 @@
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(4.5rem + var(--space-m-xl));
+  background: var(--gelap);
+  color: var(--di-gelap);
+  --muted: var(--di-gelap-redup);
+}
+
+/* Cahaya klorofil samar di sudut, memberi kedalaman pada latar gelap */
+.hero::before {
+  content: '';
+  position: absolute;
+  top: -30%;
+  right: -10%;
+  width: 70vw;
+  height: 70vw;
+  background: radial-gradient(closest-side, rgb(201 243 106 / 0.1), transparent);
+  pointer-events: none;
+}
+
+.meta {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  row-gap: var(--space-s);
+  padding-bottom: var(--space-s);
+  border-bottom: 1px solid var(--garis-gelap);
+  color: var(--di-gelap-redup);
+}
+
+.meta p {
+  margin: 0;
+  /* Tetap satu baris, agar tidak bergeser saat font tiba */
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* Sejajar dengan kolom metrik di bawah */
+.meta p + p {
+  padding-left: var(--space-m);
+}
+
+.grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: var(--space-l-2xl);
+  align-items: start;
+  padding-top: var(--space-l);
+}
+
+/* Tagline menempel di atas nama */
+.kiri {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-m);
+  container-type: inline-size;
+}
+
+/* Nama mengisi lebar kolom; satu blok teks agar jadi elemen LCP */
+.nama {
+  margin: 0;
+  padding: 0 0 0.06em 0.9em;
+  text-indent: -0.9em;
+  font-size: 29cqi;
+  font-weight: 500;
+  line-height: 0.92;
+  letter-spacing: -0.065em;
+}
+
+.tagline {
+  /* Patah baris eksplisit; em, bukan ch, agar tak berubah saat font berganti */
+  max-width: 15.5em;
+  margin: 0;
+  font-size: var(--step-3);
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: -0.025em;
+}
+
+.tagline :global(.aksen) {
+  color: var(--limau);
+  font-size: 1.08em;
+}
+
+/* Kartu identitas bergaya label spesimen */
+.kartu {
+  justify-self: end;
+  align-self: start;
+  width: min(100%, 18rem);
+  margin: 0;
+  padding: var(--space-xs);
+  border-radius: var(--radius-card);
+  background: var(--paper);
+  color: var(--ink);
+  box-shadow: 0 30px 60px -30px rgb(0 0 0 / 0.6);
+  transform: rotate(1.5deg);
+  transition: transform 0.6s var(--ease-out);
+}
+
+.kartu:hover {
+  transform: rotate(0deg) translateY(-4px);
+}
+
+.kartuAtas {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.15rem 0.2rem var(--space-xs);
+  color: var(--muted);
+  --muted: #56605a;
+}
+
+/* Potongan foto 431x579: x 25-397, y 50-470 */
+.foto {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 372 / 420;
+  border-radius: var(--radius-img);
+  background: #d9ddd4;
+}
+
+.foto img {
+  position: absolute;
+  left: -6.72%;
+  top: -11.9%;
+  width: 115.86%;
+  max-width: none;
+  height: auto;
+  mix-blend-mode: multiply;
+  filter: grayscale(1) contrast(1.1);
+  transition: filter 0.9s var(--ease-out);
+}
+
+.kartu:hover .foto img {
+  filter: none;
+}
+
+.data {
+  display: grid;
+  margin: var(--space-xs) 0 0;
+  padding: 0 0.2rem;
+}
+
+.data div {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  gap: var(--space-2xs);
+  padding-block: 0.4rem;
+  border-top: 1px solid rgb(12 26 20 / 0.12);
+  font-size: 0.85rem;
+  line-height: 1.35;
+}
+
+.data dt {
+  color: #56605a;
+  font-size: 0.7rem;
+  padding-top: 0.1rem;
+}
+
+.data dd {
+  margin: 0;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+
+.rantai {
+  position: relative;
+  margin-top: var(--space-m);
+}
+
+.metrik {
+  position: relative;
+  padding-block: var(--space-m) var(--space-xl);
+}
+
+.metrik dl {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 0;
+  border-top: 1px solid var(--garis-gelap);
+}
+
+.metrik dl > div {
+  display: grid;
+  align-content: start;
+  gap: var(--space-2xs);
+  padding: var(--space-m) var(--space-m) 0 0;
+}
+
+.metrik dl > div + div {
+  padding-left: var(--space-m);
+  border-left: 1px solid var(--garis-gelap);
+}
+
+.metrik dt {
+  color: var(--di-gelap-redup);
+}
+
+.metrik dd {
+  margin: 0;
+  font-size: var(--step-6);
+  font-weight: 500;
+  line-height: 0.9;
+  letter-spacing: -0.05em;
+  font-variant-numeric: tabular-nums;
+}
+
+.metrik dd.sumberDd {
+  font-size: inherit;
+  line-height: inherit;
+  letter-spacing: normal;
+}
+
+.sumber {
+  justify-self: start;
+  min-height: 1.75rem;
+  font-size: 0.82rem;
+  color: var(--di-gelap-redup);
+  text-decoration: none;
+}
+
+.sumber:hover {
+  color: var(--limau);
+}
+
+.catatan {
+  margin: var(--space-s) 0 0;
+  color: var(--di-gelap-redup);
+}
+
+@media (max-width: 900px) {
+  .meta {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .meta p:nth-child(3) {
+    padding-left: 0;
+  }
+
+  .meta p:last-child {
+    grid-column: 1 / -1;
+    padding-left: 0;
+  }
+
+  .grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  /* Foto lebih kecil dari blok nama, agar LCP jatuh ke teks */
+  .kartu {
+    justify-self: start;
+    width: min(100%, 16rem);
+  }
+
+  .nama {
+    padding-left: 0;
+    text-indent: 0;
+    font-size: 38cqi;
+  }
+
+  .metrik dl {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .metrik dl > div:nth-child(3) {
+    padding-left: 0;
+    border-left: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kartu,
+  .foto img {
+    transition: none;
+  }
+}

@@ -1,0 +1,119 @@
+.ringkas {
+  margin: 0;
+  max-width: 40rem;
+  font-family: var(--font-serif);
+  font-size: var(--step-2);
+  line-height: 1.3;
+}
+
+.ringkas strong {
+  font-weight: 500;
+  font-variant-numeric: lining-nums;
+}
+
+.catatan {
+  margin: 0.75rem 0 0;
+  color: var(--muted);
+}
+
+.tabel {
+  width: 100%;
+  margin-top: 2rem;
+  border-collapse: collapse;
+}
+
+.tabel th,
+.tabel td {
+  padding: 0.8rem 0;
+  border-top: 1px solid var(--line);
+  text-align: left;
+  vertical-align: baseline;
+}
+
+.tabel thead th {
+  padding-top: 0;
+  border-top: 0;
+  font-size: var(--step-n1);
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.tabel tbody th {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-weight: 400;
+  padding-right: 1rem;
+}
+
+.kampus {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.angka {
+  width: 5rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.rentang {
+  width: 40%;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.lagi {
+  min-height: 2.75rem;
+  margin-top: 1.25rem;
+  padding: 0 1.2rem;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+}
+
+.lagi:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.kosong {
+  color: var(--muted);
+}
+
+@media (max-width: 680px) {
+  .tabel thead {
+    display: none;
+  }
+
+  .tabel tr {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    border-top: 1px solid var(--line);
+    padding-block: 0.7rem;
+  }
+
+  .tabel th,
+  .tabel td {
+    border-top: 0;
+    padding: 0;
+  }
+
+  .angka {
+    width: auto;
+    text-align: right;
+  }
+
+  .angka::after {
+    content: ' kelas';
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+
+  .rentang {
+    grid-column: 1 / -1;
+    width: auto;
+    margin-top: 0.2rem;
+  }
+}
