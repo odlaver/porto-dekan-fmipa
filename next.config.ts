@@ -9,7 +9,11 @@ const dirname = path.dirname(__filename)
 const nextConfig: NextConfig = {
   devIndicators: false,
   // CSS kecil, disisipkan agar tidak memblokir render
-  experimental: { inlineCss: true },
+  experimental: {
+    inlineCss: true,
+    // Hosting membatasi jumlah proses; worker build diatur lewat env
+    ...(process.env.NEXT_BUILD_CPUS && { cpus: Number(process.env.NEXT_BUILD_CPUS) }),
+  },
   images: {
     localPatterns: [
       {
