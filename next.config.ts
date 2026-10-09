@@ -9,11 +9,7 @@ const dirname = path.dirname(__filename)
 const nextConfig: NextConfig = {
   devIndicators: false,
   // CSS kecil, disisipkan agar tidak memblokir render
-  experimental: {
-    inlineCss: true,
-    // Hosting membatasi jumlah proses; worker build diatur lewat env
-    ...(process.env.NEXT_BUILD_CPUS && { cpus: Number(process.env.NEXT_BUILD_CPUS) }),
-  },
+  experimental: { inlineCss: true },
   images: {
     localPatterns: [
       {
@@ -31,8 +27,7 @@ const nextConfig: NextConfig = {
     return webpackConfig
   },
   turbopack: {
-    // Di hosting CloudLinux node_modules berupa symlink ke luar proyek
-    root: process.env.TURBOPACK_ROOT ?? path.resolve(dirname),
+    root: path.resolve(dirname),
   },
 }
 
