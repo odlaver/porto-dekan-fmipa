@@ -1,5 +1,6 @@
 import { postgresAdapter } from '@payloadcms/db-postgres'
 import { lexicalEditor } from '@payloadcms/richtext-lexical'
+import { vercelBlobStorage } from '@payloadcms/storage-vercel-blob'
 import { id } from '@payloadcms/translations/languages/id'
 import path from 'path'
 import { buildConfig } from 'payload'
@@ -92,5 +93,13 @@ export default buildConfig({
     autoRun: [{ cron: '*/15 * * * *', queue: 'mingguan' }],
   },
   sharp,
-  plugins: [],
+  plugins: [
+    // Media di Vercel Blob bila tokennya ada; lokal tetap folder media
+    vercelBlobStorage({
+      enabled: Boolean(process.env.BLOB_READ_WRITE_TOKEN),
+      collections: { media: true },
+      token: process.env.BLOB_READ_WRITE_TOKEN,
+      clientUploads: true,
+    }),
+  ],
 })
