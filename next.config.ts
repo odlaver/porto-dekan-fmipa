@@ -27,7 +27,8 @@ const nextConfig: NextConfig = {
     return webpackConfig
   },
   turbopack: {
-    root: path.resolve(dirname),
+    // Di hosting CloudLinux node_modules berupa symlink ke luar proyek
+    root: process.env.TURBOPACK_ROOT ?? path.resolve(dirname),
   },
 }
 
